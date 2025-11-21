@@ -1,0 +1,1981 @@
+Monster_Type,Ability,Score,Monster_Name
+Aberration,STR (Strength),21,Aboleth
+Elemental,STR (Strength),14,Air Elemental
+Construct,STR (Strength),14,Animated Armor
+Construct,STR (Strength),12,Animated Flying Sword
+Construct,STR (Strength),17,Animated Rug of Smothering
+Monstrosity,STR (Strength),17,Ankheg
+Humanoid,STR (Strength),11,Assassin
+Plant,STR (Strength),3,Awakened Shrub
+Plant,STR (Strength),19,Awakened Tree
+Monstrosity,STR (Strength),14,Axe Beak
+Elemental,STR (Strength),17,Azer Sentinel
+Fiend,STR (Strength),26,Balor
+Humanoid,STR (Strength),11,Bandit
+Humanoid,STR (Strength),15,Bandit Captain
+Fiend,STR (Strength),16,Barbed Devil
+Monstrosity,STR (Strength),16,Basilisk
+Fiend,STR (Strength),16,Bearded Devil
+Monstrosity,STR (Strength),23,Behir
+Humanoid,STR (Strength),16,Berserker
+Dragon,STR (Strength),15,Black Dragon Wyrmling
+Dragon,STR (Strength),19,Young Black Dragon
+Dragon,STR (Strength),23,Adult Black Dragon
+Dragon,STR (Strength),27,Ancient Black Dragon
+Ooze,STR (Strength),16,Black Pudding
+Fey,STR (Strength),12,Blink Dog
+Dragon,STR (Strength),17,Blue Dragon Wyrmling
+Dragon,STR (Strength),21,Young Blue Dragon
+Dragon,STR (Strength),25,Adult Blue Dragon
+Dragon,STR (Strength),29,Ancient Blue Dragon
+Fiend,STR (Strength),18,Bone Devil
+Dragon,STR (Strength),15,Brass Dragon Wyrmling
+Dragon,STR (Strength),19,Young Brass Dragon
+Dragon,STR (Strength),23,Adult Brass Dragon
+Dragon,STR (Strength),27,Ancient Brass Dragon
+Dragon,STR (Strength),17,Bronze Dragon Wyrmling
+Dragon,STR (Strength),21,Young Bronze Dragon
+Dragon,STR (Strength),25,Adult Bronze Dragon
+Dragon,STR (Strength),29,Ancient Bronze Dragon
+Fey,STR (Strength),17,Bugbear Stalker
+Fey,STR (Strength),15,Bugbear Warrior
+Monstrosity,STR (Strength),19,Bulette
+Fey,STR (Strength),18,Centaur Trooper
+Fiend,STR (Strength),18,Chain Devil
+Monstrosity,STR (Strength),19,Chimera
+Aberration,STR (Strength),19,Chuul
+Construct,STR (Strength),20,Clay Golem
+Aberration,STR (Strength),17,Cloaker
+Giant,STR (Strength),27,Cloud Giant
+Monstrosity,STR (Strength),6,Cockatrice
+Humanoid,STR (Strength),10,Commoner
+Dragon,STR (Strength),15,Copper Dragon Wyrmling
+Dragon,STR (Strength),19,Young Copper Dragon
+Dragon,STR (Strength),23,Adult Copper Dragon
+Dragon,STR (Strength),27,Ancient Copper Dragon
+Celestial,STR (Strength),16,Couatl
+Swarm of Tiny Undead,STR (Strength),14,Swarm of Crawling Claws
+Humanoid,STR (Strength),11,Cultist
+Humanoid,STR (Strength),11,Cultist Fanatic
+Aberration,STR (Strength),16,Darkmantle
+Monstrosity,STR (Strength),15,Death Dog
+Celestial,STR (Strength),18,Deva
+Elemental,STR (Strength),21,Djinni
+Monstrosity,STR (Strength),11,Doppelganger
+Dragon,STR (Strength),25,Dragon Turtle
+Fiend,STR (Strength),12,Dretch
+Monstrosity,STR (Strength),16,Drider
+Humanoid,STR (Strength),10,Druid
+Fey,STR (Strength),10,Dryad
+Elemental,STR (Strength),20,Earth Elemental
+Elemental,STR (Strength),22,Efreeti
+Fiend,STR (Strength),18,Erinyes
+Monstrosity,STR (Strength),14,Ettercap
+Giant,STR (Strength),21,Ettin
+Elemental,STR (Strength),10,Fire Elemental
+Giant,STR (Strength),25,Fire Giant
+Construct,STR (Strength),19,Flesh Golem
+Giant,STR (Strength),23,Frost Giant
+Plant,STR (Strength),1,Shrieker Fungus
+Plant,STR (Strength),3,Violet Fungus
+Elemental,STR (Strength),15,Gargoyle
+Ooze,STR (Strength),14,Gelatinous Cube
+Undead,STR (Strength),16,Ghast
+Undead,STR (Strength),7,Ghost
+Undead,STR (Strength),13,Ghoul
+Aberration,STR (Strength),10,Gibbering Mouther
+Fiend,STR (Strength),20,Glabrezu
+Humanoid,STR (Strength),18,Gladiator
+Fiend,STR (Strength),14,Gnoll Warrior
+Fey,STR (Strength),8,Goblin Minion
+Fey,STR (Strength),8,Goblin Warrior
+Fey,STR (Strength),10,Goblin Boss
+Dragon,STR (Strength),19,Gold Dragon Wyrmling
+Dragon,STR (Strength),23,Young Gold Dragon
+Dragon,STR (Strength),27,Adult Gold Dragon
+Dragon,STR (Strength),30,Ancient Gold Dragon
+Construct,STR (Strength),20,Gorgon
+Ooze,STR (Strength),12,Gray Ooze
+Dragon,STR (Strength),15,Green Dragon Wyrmling
+Dragon,STR (Strength),19,Young Green Dragon
+Dragon,STR (Strength),23,Adult Green Dragon
+Dragon,STR (Strength),27,Ancient Green Dragon
+Fey,STR (Strength),18,Green Hag
+Aberration,STR (Strength),14,Grick
+Monstrosity,STR (Strength),18,Griffon
+Aberration,STR (Strength),16,Grimlock
+Celestial,STR (Strength),19,Guardian Naga
+Humanoid,STR (Strength),13,Guard
+Humanoid,STR (Strength),18,Guard Captain
+Dragon,STR (Strength),19,Half-Dragon
+Monstrosity,STR (Strength),12,Harpy
+Fiend,STR (Strength),17,Hell Hound
+Fiend,STR (Strength),19,Hezrou
+Giant,STR (Strength),21,Hill Giant
+Monstrosity,STR (Strength),17,Hippogriff
+Fey,STR (Strength),13,Hobgoblin Warrior
+Fey,STR (Strength),15,Hobgoblin Captain
+Construct,STR (Strength),4,Homunculus
+Fiend,STR (Strength),22,Horned Devil
+Monstrosity,STR (Strength),20,Hydra
+Fiend,STR (Strength),21,Ice Devil
+Fiend,STR (Strength),6,Imp
+Fiend,STR (Strength),8,Incubus
+Elemental,STR (Strength),16,Invisible Stalker
+Construct,STR (Strength),24,Iron Golem
+Humanoid,STR (Strength),16,Knight
+Dragon,STR (Strength),7,Kobold Warrior
+Monstrosity,STR (Strength),30,Kraken
+Fiend,STR (Strength),16,Lamia
+Fiend,STR (Strength),10,Lemure
+Undead,STR (Strength),11,Lich
+Humanoid,STR (Strength),9,Mage
+Humanoid,STR (Strength),10,Archmage
+Elemental,STR (Strength),7,Magmin
+Monstrosity,STR (Strength),17,Manticore
+Fiend,STR (Strength),18,Marilith
+Monstrosity,STR (Strength),10,Medusa
+Elemental,STR (Strength),5,Dust Mephit
+Elemental,STR (Strength),7,Ice Mephit
+Elemental,STR (Strength),8,Magma Mephit
+Elemental,STR (Strength),5,Steam Mephit
+Elemental,STR (Strength),10,Merfolk Skirmisher
+Monstrosity,STR (Strength),18,Merrow
+Monstrosity,STR (Strength),17,Mimic
+Monstrosity,STR (Strength),18,Minotaur of Baphomet
+Undead,STR (Strength),16,Mummy
+Undead,STR (Strength),18,Mummy Lord
+Fiend,STR (Strength),21,Nalfeshnee
+Fiend,STR (Strength),18,Night Hag
+Fiend,STR (Strength),18,Nightmare
+Humanoid,STR (Strength),11,Noble
+Ooze,STR (Strength),15,Ochre Jelly
+Giant,STR (Strength),19,Ogre
+Fiend,STR (Strength),19,Oni
+Aberration,STR (Strength),16,Otyugh
+Monstrosity,STR (Strength),20,Owlbear
+Celestial,STR (Strength),18,Pegasus
+Monstrosity,STR (Strength),15,Phase Spider
+Humanoid,STR (Strength),10,Pirate
+Humanoid,STR (Strength),10,Pirate Captain
+Fiend,STR (Strength),26,Pit Fiend
+Celestial,STR (Strength),24,Planetar
+Humanoid,STR (Strength),14,Priest Acolyte
+Humanoid,STR (Strength),16,Priest
+Dragon,STR (Strength),6,Pseudodragon
+Monstrosity,STR (Strength),28,Purple Worm
+Fiend,STR (Strength),5,Quasit
+Fiend,STR (Strength),14,Rakshasa
+Dragon,STR (Strength),19,Red Dragon Wyrmling
+Dragon,STR (Strength),23,Young Red Dragon
+Dragon,STR (Strength),27,Adult Red Dragon
+Dragon,STR (Strength),30,Ancient Red Dragon
+Monstrosity,STR (Strength),24,Remorhaz
+Monstrosity,STR (Strength),28,Roc
+Aberration,STR (Strength),18,Roper
+Monstrosity,STR (Strength),13,Rust Monster
+Fiend,STR (Strength),13,Sahuagin Warrior
+Elemental,STR (Strength),18,Salamander
+Fey,STR (Strength),12,Satyr
+Humanoid,STR (Strength),11,Scout
+Fey,STR (Strength),16,Sea Hag
+Undead,STR (Strength),6,Shadow
+Plant,STR (Strength),18,Shambling Mound
+Construct,STR (Strength),18,Shield Guardian
+Dragon,STR (Strength),19,Silver Dragon Wyrmling
+Dragon,STR (Strength),23,Young Silver Dragon
+Dragon,STR (Strength),27,Adult Silver Dragon
+Dragon,STR (Strength),30,Ancient Silver Dragon
+Undead,STR (Strength),10,Skeleton
+Undead,STR (Strength),18,Warhorse Skeleton
+Undead,STR (Strength),18,Minotaur Skeleton
+Celestial,STR (Strength),26,Solar
+Undead,STR (Strength),1,Specter
+Celestial,STR (Strength),6,Sphinx of Wonder
+Celestial,STR (Strength),18,Sphinx of Lore
+Celestial,STR (Strength),22,Sphinx of Valor
+Fiend,STR (Strength),18,Spirit Naga
+Fey,STR (Strength),3,Sprite
+Humanoid,STR (Strength),10,Spy
+Monstrosity,STR (Strength),4,Stirge
+Giant,STR (Strength),23,Stone Giant
+Construct,STR (Strength),22,Stone Golem
+Giant,STR (Strength),29,Storm Giant
+Fiend,STR (Strength),8,Succubus
+Monstrosity,STR (Strength),30,Tarrasque
+Humanoid,STR (Strength),15,Tough
+Humanoid,STR (Strength),17,Tough Boss
+Plant,STR (Strength),23,Treant
+Giant,STR (Strength),18,Troll
+Giant,STR (Strength),18,Troll Limb
+Celestial,STR (Strength),18,Unicorn
+Humanoid,STR (Strength),17,Vampire Familiar
+Undead,STR (Strength),16,Vampire Spawn
+Undead,STR (Strength),18,Vampire
+Fiend,STR (Strength),17,Vrock
+Humanoid,STR (Strength),13,Warrior Infantry
+Humanoid,STR (Strength),16,Warrior Veteran
+Elemental,STR (Strength),18,Water Elemental
+Monstrosity,STR (Strength),19,Werebear
+Monstrosity,STR (Strength),17,Wereboar
+Monstrosity,STR (Strength),10,Wererat
+Monstrosity,STR (Strength),17,Weretiger
+Monstrosity,STR (Strength),16,Werewolf
+Dragon,STR (Strength),14,White Dragon Wyrmling
+Dragon,STR (Strength),18,Young White Dragon
+Dragon,STR (Strength),22,Adult White Dragon
+Dragon,STR (Strength),26,Ancient White Dragon
+Undead,STR (Strength),15,Wight
+Undead,STR (Strength),1,Will-o’-Wisp
+Monstrosity,STR (Strength),18,Winter Wolf
+Fey,STR (Strength),16,Worg
+Undead,STR (Strength),6,Wraith
+Dragon,STR (Strength),19,Wyvern
+Elemental,STR (Strength),17,Xorn
+Undead,STR (Strength),13,Zombie
+Undead,STR (Strength),19,Ogre Zombie
+Beast,STR (Strength),19,Allosaurus
+Beast,STR (Strength),19,Ankylosaurus
+Beast,STR (Strength),16,Ape
+Beast,STR (Strength),18,Archelon
+Beast,STR (Strength),8,Baboon
+Beast,STR (Strength),10,Badger
+Beast,STR (Strength),2,Bat
+Beast,STR (Strength),15,Black Bear
+Beast,STR (Strength),6,Blood Hawk
+Beast,STR (Strength),13,Boar
+Beast,STR (Strength),17,Brown Bear
+Beast,STR (Strength),15,Camel
+Beast,STR (Strength),3,Cat
+Beast,STR (Strength),15,Constrictor Snake
+Beast,STR (Strength),6,Crab
+Beast,STR (Strength),15,Crocodile
+Beast,STR (Strength),11,Deer
+Beast,STR (Strength),17,Dire Wolf
+Beast,STR (Strength),18,Draft Horse
+Beast,STR (Strength),6,Eagle
+Beast,STR (Strength),22,Elephant
+Beast,STR (Strength),16,Elk
+Monstrosity,STR (Strength),4,Flying Snake
+Beast,STR (Strength),1,Frog
+Beast,STR (Strength),23,Giant Ape
+Beast,STR (Strength),13,Giant Badger
+Beast,STR (Strength),15,Giant Bat
+Beast,STR (Strength),17,Giant Boar
+Beast,STR (Strength),5,Giant Centipede
+Beast,STR (Strength),19,Giant Constrictor Snake
+Beast,STR (Strength),13,Giant Crab
+Beast,STR (Strength),21,Giant Crocodile
+Celestial,STR (Strength),16,Giant Eagle
+Celestial,STR (Strength),19,Giant Elk
+Beast,STR (Strength),8,Giant Fire Beetle
+Beast,STR (Strength),12,Giant Frog
+Beast,STR (Strength),17,Giant Goat
+Beast,STR (Strength),16,Giant Hyena
+Beast,STR (Strength),15,Giant Lizard
+Beast,STR (Strength),17,Giant Octopus
+Celestial,STR (Strength),13,Giant Owl
+Beast,STR (Strength),7,Giant Rat
+Beast,STR (Strength),16,Giant Scorpion
+Beast,STR (Strength),15,Giant Seahorse
+Beast,STR (Strength),23,Giant Shark
+Beast,STR (Strength),14,Giant Spider
+Beast,STR (Strength),15,Giant Toad
+Beast,STR (Strength),10,Giant Venomous Snake
+Monstrosity,STR (Strength),15,Giant Vulture
+Beast,STR (Strength),10,Giant Wasp
+Beast,STR (Strength),11,Giant Weasel
+Beast,STR (Strength),12,Giant Wolf Spider
+Beast,STR (Strength),11,Goat
+Beast,STR (Strength),5,Hawk
+Beast,STR (Strength),21,Hippopotamus
+Beast,STR (Strength),18,Hunter Shark
+Beast,STR (Strength),11,Hyena
+Beast,STR (Strength),8,Jackal
+Beast,STR (Strength),19,Killer Whale
+Beast,STR (Strength),17,Lion
+Beast,STR (Strength),2,Lizard
+Beast,STR (Strength),24,Mammoth
+Beast,STR (Strength),13,Mastiff
+Beast,STR (Strength),14,Mule
+Beast,STR (Strength),4,Octopus
+Beast,STR (Strength),3,Owl
+Beast,STR (Strength),14,Panther
+Beast,STR (Strength),2,Piranha
+Beast,STR (Strength),18,Plesiosaurus
+Beast,STR (Strength),20,Polar Bear
+Beast,STR (Strength),15,Pony
+Beast,STR (Strength),12,Pteranodon
+Beast,STR (Strength),2,Rat
+Beast,STR (Strength),2,Raven
+Beast,STR (Strength),14,Reef Shark
+Beast,STR (Strength),21,Rhinoceros
+Beast,STR (Strength),16,Riding Horse
+Beast,STR (Strength),18,Saber-Toothed Tiger
+Beast,STR (Strength),2,Scorpion
+Beast,STR (Strength),1,Seahorse
+Beast,STR (Strength),2,Spider
+Swarm of Tiny Beasts,STR (Strength),5,Swarm of Bats
+Swarm of Tiny Beasts,STR (Strength),3,Swarm of Insects
+Swarm of Tiny Beasts,STR (Strength),13,Swarm of Piranhas
+Swarm of Tiny Beasts,STR (Strength),9,Swarm of Rats
+Swarm of Tiny Beasts,STR (Strength),6,Swarm of Ravens
+Swarm of Tiny Beasts,STR (Strength),8,Swarm of Venomous Snakes
+Beast,STR (Strength),17,Tiger
+Beast,STR (Strength),22,Triceratops
+Beast,STR (Strength),25,Tyrannosaurus Rex
+Beast,STR (Strength),2,Venomous Snake
+Beast,STR (Strength),7,Vulture
+Beast,STR (Strength),18,Warhorse
+Beast,STR (Strength),3,Weasel
+Beast,STR (Strength),14,Wolf
+Aberration,DEX (Dexterity),9,Aboleth
+Elemental,DEX (Dexterity),20,Air Elemental
+Construct,DEX (Dexterity),11,Animated Armor
+Construct,DEX (Dexterity),15,Animated Flying Sword
+Construct,DEX (Dexterity),14,Animated Rug of Smothering
+Monstrosity,DEX (Dexterity),11,Ankheg
+Humanoid,DEX (Dexterity),18,Assassin
+Plant,DEX (Dexterity),8,Awakened Shrub
+Plant,DEX (Dexterity),6,Awakened Tree
+Monstrosity,DEX (Dexterity),12,Axe Beak
+Elemental,DEX (Dexterity),12,Azer Sentinel
+Fiend,DEX (Dexterity),15,Balor
+Humanoid,DEX (Dexterity),12,Bandit
+Humanoid,DEX (Dexterity),16,Bandit Captain
+Fiend,DEX (Dexterity),17,Barbed Devil
+Monstrosity,DEX (Dexterity),8,Basilisk
+Fiend,DEX (Dexterity),15,Bearded Devil
+Monstrosity,DEX (Dexterity),16,Behir
+Humanoid,DEX (Dexterity),12,Berserker
+Dragon,DEX (Dexterity),14,Black Dragon Wyrmling
+Dragon,DEX (Dexterity),14,Young Black Dragon
+Dragon,DEX (Dexterity),14,Adult Black Dragon
+Dragon,DEX (Dexterity),14,Ancient Black Dragon
+Ooze,DEX (Dexterity),5,Black Pudding
+Fey,DEX (Dexterity),17,Blink Dog
+Dragon,DEX (Dexterity),10,Blue Dragon Wyrmling
+Dragon,DEX (Dexterity),10,Young Blue Dragon
+Dragon,DEX (Dexterity),10,Adult Blue Dragon
+Dragon,DEX (Dexterity),10,Ancient Blue Dragon
+Fiend,DEX (Dexterity),16,Bone Devil
+Dragon,DEX (Dexterity),10,Brass Dragon Wyrmling
+Dragon,DEX (Dexterity),10,Young Brass Dragon
+Dragon,DEX (Dexterity),10,Adult Brass Dragon
+Dragon,DEX (Dexterity),10,Ancient Brass Dragon
+Dragon,DEX (Dexterity),10,Bronze Dragon Wyrmling
+Dragon,DEX (Dexterity),10,Young Bronze Dragon
+Dragon,DEX (Dexterity),10,Adult Bronze Dragon
+Dragon,DEX (Dexterity),10,Ancient Bronze Dragon
+Fey,DEX (Dexterity),14,Bugbear Stalker
+Fey,DEX (Dexterity),14,Bugbear Warrior
+Monstrosity,DEX (Dexterity),11,Bulette
+Fey,DEX (Dexterity),14,Centaur Trooper
+Fiend,DEX (Dexterity),15,Chain Devil
+Monstrosity,DEX (Dexterity),11,Chimera
+Aberration,DEX (Dexterity),10,Chuul
+Construct,DEX (Dexterity),9,Clay Golem
+Aberration,DEX (Dexterity),15,Cloaker
+Giant,DEX (Dexterity),10,Cloud Giant
+Monstrosity,DEX (Dexterity),12,Cockatrice
+Humanoid,DEX (Dexterity),10,Commoner
+Dragon,DEX (Dexterity),12,Copper Dragon Wyrmling
+Dragon,DEX (Dexterity),12,Young Copper Dragon
+Dragon,DEX (Dexterity),12,Adult Copper Dragon
+Dragon,DEX (Dexterity),12,Ancient Copper Dragon
+Celestial,DEX (Dexterity),20,Couatl
+Swarm of Tiny Undead,DEX (Dexterity),14,Swarm of Crawling Claws
+Humanoid,DEX (Dexterity),12,Cultist
+Humanoid,DEX (Dexterity),14,Cultist Fanatic
+Aberration,DEX (Dexterity),12,Darkmantle
+Monstrosity,DEX (Dexterity),14,Death Dog
+Celestial,DEX (Dexterity),18,Deva
+Elemental,DEX (Dexterity),15,Djinni
+Monstrosity,DEX (Dexterity),18,Doppelganger
+Dragon,DEX (Dexterity),10,Dragon Turtle
+Fiend,DEX (Dexterity),11,Dretch
+Monstrosity,DEX (Dexterity),19,Drider
+Humanoid,DEX (Dexterity),12,Druid
+Fey,DEX (Dexterity),12,Dryad
+Elemental,DEX (Dexterity),8,Earth Elemental
+Elemental,DEX (Dexterity),12,Efreeti
+Fiend,DEX (Dexterity),16,Erinyes
+Monstrosity,DEX (Dexterity),15,Ettercap
+Giant,DEX (Dexterity),8,Ettin
+Elemental,DEX (Dexterity),17,Fire Elemental
+Giant,DEX (Dexterity),9,Fire Giant
+Construct,DEX (Dexterity),9,Flesh Golem
+Giant,DEX (Dexterity),9,Frost Giant
+Plant,DEX (Dexterity),1,Shrieker Fungus
+Plant,DEX (Dexterity),1,Violet Fungus
+Elemental,DEX (Dexterity),11,Gargoyle
+Ooze,DEX (Dexterity),3,Gelatinous Cube
+Undead,DEX (Dexterity),17,Ghast
+Undead,DEX (Dexterity),13,Ghost
+Undead,DEX (Dexterity),15,Ghoul
+Aberration,DEX (Dexterity),8,Gibbering Mouther
+Fiend,DEX (Dexterity),15,Glabrezu
+Humanoid,DEX (Dexterity),15,Gladiator
+Fiend,DEX (Dexterity),12,Gnoll Warrior
+Fey,DEX (Dexterity),15,Goblin Minion
+Fey,DEX (Dexterity),15,Goblin Warrior
+Fey,DEX (Dexterity),15,Goblin Boss
+Dragon,DEX (Dexterity),14,Gold Dragon Wyrmling
+Dragon,DEX (Dexterity),14,Young Gold Dragon
+Dragon,DEX (Dexterity),14,Adult Gold Dragon
+Dragon,DEX (Dexterity),14,Ancient Gold Dragon
+Construct,DEX (Dexterity),11,Gorgon
+Ooze,DEX (Dexterity),6,Gray Ooze
+Dragon,DEX (Dexterity),12,Green Dragon Wyrmling
+Dragon,DEX (Dexterity),12,Young Green Dragon
+Dragon,DEX (Dexterity),12,Adult Green Dragon
+Dragon,DEX (Dexterity),12,Ancient Green Dragon
+Fey,DEX (Dexterity),12,Green Hag
+Aberration,DEX (Dexterity),14,Grick
+Monstrosity,DEX (Dexterity),15,Griffon
+Aberration,DEX (Dexterity),12,Grimlock
+Celestial,DEX (Dexterity),18,Guardian Naga
+Humanoid,DEX (Dexterity),12,Guard
+Humanoid,DEX (Dexterity),14,Guard Captain
+Dragon,DEX (Dexterity),14,Half-Dragon
+Monstrosity,DEX (Dexterity),13,Harpy
+Fiend,DEX (Dexterity),12,Hell Hound
+Fiend,DEX (Dexterity),17,Hezrou
+Giant,DEX (Dexterity),8,Hill Giant
+Monstrosity,DEX (Dexterity),13,Hippogriff
+Fey,DEX (Dexterity),12,Hobgoblin Warrior
+Fey,DEX (Dexterity),14,Hobgoblin Captain
+Construct,DEX (Dexterity),15,Homunculus
+Fiend,DEX (Dexterity),17,Horned Devil
+Monstrosity,DEX (Dexterity),12,Hydra
+Fiend,DEX (Dexterity),14,Ice Devil
+Fiend,DEX (Dexterity),17,Imp
+Fiend,DEX (Dexterity),17,Incubus
+Elemental,DEX (Dexterity),19,Invisible Stalker
+Construct,DEX (Dexterity),9,Iron Golem
+Humanoid,DEX (Dexterity),11,Knight
+Dragon,DEX (Dexterity),15,Kobold Warrior
+Monstrosity,DEX (Dexterity),11,Kraken
+Fiend,DEX (Dexterity),13,Lamia
+Fiend,DEX (Dexterity),5,Lemure
+Undead,DEX (Dexterity),16,Lich
+Humanoid,DEX (Dexterity),14,Mage
+Humanoid,DEX (Dexterity),14,Archmage
+Elemental,DEX (Dexterity),15,Magmin
+Monstrosity,DEX (Dexterity),16,Manticore
+Fiend,DEX (Dexterity),20,Marilith
+Monstrosity,DEX (Dexterity),17,Medusa
+Elemental,DEX (Dexterity),14,Dust Mephit
+Elemental,DEX (Dexterity),13,Ice Mephit
+Elemental,DEX (Dexterity),12,Magma Mephit
+Elemental,DEX (Dexterity),11,Steam Mephit
+Elemental,DEX (Dexterity),13,Merfolk Skirmisher
+Monstrosity,DEX (Dexterity),15,Merrow
+Monstrosity,DEX (Dexterity),12,Mimic
+Monstrosity,DEX (Dexterity),11,Minotaur of Baphomet
+Undead,DEX (Dexterity),8,Mummy
+Undead,DEX (Dexterity),10,Mummy Lord
+Fiend,DEX (Dexterity),10,Nalfeshnee
+Fiend,DEX (Dexterity),15,Night Hag
+Fiend,DEX (Dexterity),15,Nightmare
+Humanoid,DEX (Dexterity),12,Noble
+Ooze,DEX (Dexterity),6,Ochre Jelly
+Giant,DEX (Dexterity),8,Ogre
+Fiend,DEX (Dexterity),11,Oni
+Aberration,DEX (Dexterity),11,Otyugh
+Monstrosity,DEX (Dexterity),12,Owlbear
+Celestial,DEX (Dexterity),15,Pegasus
+Monstrosity,DEX (Dexterity),16,Phase Spider
+Humanoid,DEX (Dexterity),16,Pirate
+Humanoid,DEX (Dexterity),18,Pirate Captain
+Fiend,DEX (Dexterity),14,Pit Fiend
+Celestial,DEX (Dexterity),20,Planetar
+Humanoid,DEX (Dexterity),10,Priest Acolyte
+Humanoid,DEX (Dexterity),10,Priest
+Dragon,DEX (Dexterity),15,Pseudodragon
+Monstrosity,DEX (Dexterity),7,Purple Worm
+Fiend,DEX (Dexterity),17,Quasit
+Fiend,DEX (Dexterity),17,Rakshasa
+Dragon,DEX (Dexterity),10,Red Dragon Wyrmling
+Dragon,DEX (Dexterity),10,Young Red Dragon
+Dragon,DEX (Dexterity),10,Adult Red Dragon
+Dragon,DEX (Dexterity),10,Ancient Red Dragon
+Monstrosity,DEX (Dexterity),13,Remorhaz
+Monstrosity,DEX (Dexterity),10,Roc
+Aberration,DEX (Dexterity),8,Roper
+Monstrosity,DEX (Dexterity),12,Rust Monster
+Fiend,DEX (Dexterity),11,Sahuagin Warrior
+Elemental,DEX (Dexterity),14,Salamander
+Fey,DEX (Dexterity),16,Satyr
+Humanoid,DEX (Dexterity),14,Scout
+Fey,DEX (Dexterity),13,Sea Hag
+Undead,DEX (Dexterity),14,Shadow
+Plant,DEX (Dexterity),8,Shambling Mound
+Construct,DEX (Dexterity),8,Shield Guardian
+Dragon,DEX (Dexterity),10,Silver Dragon Wyrmling
+Dragon,DEX (Dexterity),10,Young Silver Dragon
+Dragon,DEX (Dexterity),10,Adult Silver Dragon
+Dragon,DEX (Dexterity),10,Ancient Silver Dragon
+Undead,DEX (Dexterity),16,Skeleton
+Undead,DEX (Dexterity),12,Warhorse Skeleton
+Undead,DEX (Dexterity),11,Minotaur Skeleton
+Celestial,DEX (Dexterity),22,Solar
+Undead,DEX (Dexterity),14,Specter
+Celestial,DEX (Dexterity),17,Sphinx of Wonder
+Celestial,DEX (Dexterity),15,Sphinx of Lore
+Celestial,DEX (Dexterity),10,Sphinx of Valor
+Fiend,DEX (Dexterity),17,Spirit Naga
+Fey,DEX (Dexterity),18,Sprite
+Humanoid,DEX (Dexterity),15,Spy
+Monstrosity,DEX (Dexterity),16,Stirge
+Giant,DEX (Dexterity),15,Stone Giant
+Construct,DEX (Dexterity),9,Stone Golem
+Giant,DEX (Dexterity),14,Storm Giant
+Fiend,DEX (Dexterity),17,Succubus
+Monstrosity,DEX (Dexterity),11,Tarrasque
+Humanoid,DEX (Dexterity),12,Tough
+Humanoid,DEX (Dexterity),14,Tough Boss
+Plant,DEX (Dexterity),8,Treant
+Giant,DEX (Dexterity),13,Troll
+Giant,DEX (Dexterity),12,Troll Limb
+Celestial,DEX (Dexterity),14,Unicorn
+Humanoid,DEX (Dexterity),16,Vampire Familiar
+Undead,DEX (Dexterity),16,Vampire Spawn
+Undead,DEX (Dexterity),18,Vampire
+Fiend,DEX (Dexterity),15,Vrock
+Humanoid,DEX (Dexterity),11,Warrior Infantry
+Humanoid,DEX (Dexterity),13,Warrior Veteran
+Elemental,DEX (Dexterity),14,Water Elemental
+Monstrosity,DEX (Dexterity),10,Werebear
+Monstrosity,DEX (Dexterity),10,Wereboar
+Monstrosity,DEX (Dexterity),16,Wererat
+Monstrosity,DEX (Dexterity),15,Weretiger
+Monstrosity,DEX (Dexterity),14,Werewolf
+Dragon,DEX (Dexterity),10,White Dragon Wyrmling
+Dragon,DEX (Dexterity),10,Young White Dragon
+Dragon,DEX (Dexterity),10,Adult White Dragon
+Dragon,DEX (Dexterity),10,Ancient White Dragon
+Undead,DEX (Dexterity),14,Wight
+Undead,DEX (Dexterity),28,Will-o’-Wisp
+Monstrosity,DEX (Dexterity),13,Winter Wolf
+Fey,DEX (Dexterity),13,Worg
+Undead,DEX (Dexterity),16,Wraith
+Dragon,DEX (Dexterity),10,Wyvern
+Elemental,DEX (Dexterity),10,Xorn
+Undead,DEX (Dexterity),6,Zombie
+Undead,DEX (Dexterity),6,Ogre Zombie
+Beast,DEX (Dexterity),13,Allosaurus
+Beast,DEX (Dexterity),11,Ankylosaurus
+Beast,DEX (Dexterity),14,Ape
+Beast,DEX (Dexterity),16,Archelon
+Beast,DEX (Dexterity),14,Baboon
+Beast,DEX (Dexterity),11,Badger
+Beast,DEX (Dexterity),15,Bat
+Beast,DEX (Dexterity),12,Black Bear
+Beast,DEX (Dexterity),14,Blood Hawk
+Beast,DEX (Dexterity),11,Boar
+Beast,DEX (Dexterity),12,Brown Bear
+Beast,DEX (Dexterity),8,Camel
+Beast,DEX (Dexterity),15,Cat
+Beast,DEX (Dexterity),14,Constrictor Snake
+Beast,DEX (Dexterity),11,Crab
+Beast,DEX (Dexterity),10,Crocodile
+Beast,DEX (Dexterity),16,Deer
+Beast,DEX (Dexterity),15,Dire Wolf
+Beast,DEX (Dexterity),10,Draft Horse
+Beast,DEX (Dexterity),15,Eagle
+Beast,DEX (Dexterity),9,Elephant
+Beast,DEX (Dexterity),10,Elk
+Monstrosity,DEX (Dexterity),15,Flying Snake
+Beast,DEX (Dexterity),13,Frog
+Beast,DEX (Dexterity),14,Giant Ape
+Beast,DEX (Dexterity),10,Giant Badger
+Beast,DEX (Dexterity),16,Giant Bat
+Beast,DEX (Dexterity),10,Giant Boar
+Beast,DEX (Dexterity),14,Giant Centipede
+Beast,DEX (Dexterity),14,Giant Constrictor Snake
+Beast,DEX (Dexterity),13,Giant Crab
+Beast,DEX (Dexterity),9,Giant Crocodile
+Celestial,DEX (Dexterity),17,Giant Eagle
+Celestial,DEX (Dexterity),18,Giant Elk
+Beast,DEX (Dexterity),10,Giant Fire Beetle
+Beast,DEX (Dexterity),13,Giant Frog
+Beast,DEX (Dexterity),13,Giant Goat
+Beast,DEX (Dexterity),14,Giant Hyena
+Beast,DEX (Dexterity),12,Giant Lizard
+Beast,DEX (Dexterity),13,Giant Octopus
+Celestial,DEX (Dexterity),15,Giant Owl
+Beast,DEX (Dexterity),16,Giant Rat
+Beast,DEX (Dexterity),13,Giant Scorpion
+Beast,DEX (Dexterity),12,Giant Seahorse
+Beast,DEX (Dexterity),11,Giant Shark
+Beast,DEX (Dexterity),16,Giant Spider
+Beast,DEX (Dexterity),13,Giant Toad
+Beast,DEX (Dexterity),18,Giant Venomous Snake
+Monstrosity,DEX (Dexterity),10,Giant Vulture
+Beast,DEX (Dexterity),14,Giant Wasp
+Beast,DEX (Dexterity),17,Giant Weasel
+Beast,DEX (Dexterity),16,Giant Wolf Spider
+Beast,DEX (Dexterity),10,Goat
+Beast,DEX (Dexterity),16,Hawk
+Beast,DEX (Dexterity),7,Hippopotamus
+Beast,DEX (Dexterity),14,Hunter Shark
+Beast,DEX (Dexterity),13,Hyena
+Beast,DEX (Dexterity),15,Jackal
+Beast,DEX (Dexterity),14,Killer Whale
+Beast,DEX (Dexterity),15,Lion
+Beast,DEX (Dexterity),11,Lizard
+Beast,DEX (Dexterity),9,Mammoth
+Beast,DEX (Dexterity),14,Mastiff
+Beast,DEX (Dexterity),10,Mule
+Beast,DEX (Dexterity),15,Octopus
+Beast,DEX (Dexterity),13,Owl
+Beast,DEX (Dexterity),16,Panther
+Beast,DEX (Dexterity),16,Piranha
+Beast,DEX (Dexterity),15,Plesiosaurus
+Beast,DEX (Dexterity),14,Polar Bear
+Beast,DEX (Dexterity),10,Pony
+Beast,DEX (Dexterity),15,Pteranodon
+Beast,DEX (Dexterity),11,Rat
+Beast,DEX (Dexterity),14,Raven
+Beast,DEX (Dexterity),15,Reef Shark
+Beast,DEX (Dexterity),8,Rhinoceros
+Beast,DEX (Dexterity),13,Riding Horse
+Beast,DEX (Dexterity),17,Saber-Toothed Tiger
+Beast,DEX (Dexterity),11,Scorpion
+Beast,DEX (Dexterity),12,Seahorse
+Beast,DEX (Dexterity),14,Spider
+Swarm of Tiny Beasts,DEX (Dexterity),15,Swarm of Bats
+Swarm of Tiny Beasts,DEX (Dexterity),13,Swarm of Insects
+Swarm of Tiny Beasts,DEX (Dexterity),16,Swarm of Piranhas
+Swarm of Tiny Beasts,DEX (Dexterity),11,Swarm of Rats
+Swarm of Tiny Beasts,DEX (Dexterity),14,Swarm of Ravens
+Swarm of Tiny Beasts,DEX (Dexterity),18,Swarm of Venomous Snakes
+Beast,DEX (Dexterity),16,Tiger
+Beast,DEX (Dexterity),9,Triceratops
+Beast,DEX (Dexterity),10,Tyrannosaurus Rex
+Beast,DEX (Dexterity),15,Venomous Snake
+Beast,DEX (Dexterity),10,Vulture
+Beast,DEX (Dexterity),12,Warhorse
+Beast,DEX (Dexterity),16,Weasel
+Beast,DEX (Dexterity),15,Wolf
+Aberration,CON (Constitution),15,Aboleth
+Elemental,CON (Constitution),14,Air Elemental
+Construct,CON (Constitution),13,Animated Armor
+Construct,CON (Constitution),11,Animated Flying Sword
+Construct,CON (Constitution),10,Animated Rug of Smothering
+Monstrosity,CON (Constitution),14,Ankheg
+Humanoid,CON (Constitution),14,Assassin
+Plant,CON (Constitution),11,Awakened Shrub
+Plant,CON (Constitution),15,Awakened Tree
+Monstrosity,CON (Constitution),12,Axe Beak
+Elemental,CON (Constitution),15,Azer Sentinel
+Fiend,CON (Constitution),22,Balor
+Humanoid,CON (Constitution),12,Bandit
+Humanoid,CON (Constitution),14,Bandit Captain
+Fiend,CON (Constitution),18,Barbed Devil
+Monstrosity,CON (Constitution),15,Basilisk
+Fiend,CON (Constitution),15,Bearded Devil
+Monstrosity,CON (Constitution),18,Behir
+Humanoid,CON (Constitution),17,Berserker
+Dragon,CON (Constitution),13,Black Dragon Wyrmling
+Dragon,CON (Constitution),17,Young Black Dragon
+Dragon,CON (Constitution),21,Adult Black Dragon
+Dragon,CON (Constitution),25,Ancient Black Dragon
+Ooze,CON (Constitution),16,Black Pudding
+Fey,CON (Constitution),12,Blink Dog
+Dragon,CON (Constitution),15,Blue Dragon Wyrmling
+Dragon,CON (Constitution),19,Young Blue Dragon
+Dragon,CON (Constitution),23,Adult Blue Dragon
+Dragon,CON (Constitution),27,Ancient Blue Dragon
+Fiend,CON (Constitution),18,Bone Devil
+Dragon,CON (Constitution),13,Brass Dragon Wyrmling
+Dragon,CON (Constitution),17,Young Brass Dragon
+Dragon,CON (Constitution),21,Adult Brass Dragon
+Dragon,CON (Constitution),25,Ancient Brass Dragon
+Dragon,CON (Constitution),15,Bronze Dragon Wyrmling
+Dragon,CON (Constitution),19,Young Bronze Dragon
+Dragon,CON (Constitution),23,Adult Bronze Dragon
+Dragon,CON (Constitution),27,Ancient Bronze Dragon
+Fey,CON (Constitution),14,Bugbear Stalker
+Fey,CON (Constitution),13,Bugbear Warrior
+Monstrosity,CON (Constitution),21,Bulette
+Fey,CON (Constitution),14,Centaur Trooper
+Fiend,CON (Constitution),18,Chain Devil
+Monstrosity,CON (Constitution),19,Chimera
+Aberration,CON (Constitution),16,Chuul
+Construct,CON (Constitution),18,Clay Golem
+Aberration,CON (Constitution),12,Cloaker
+Giant,CON (Constitution),22,Cloud Giant
+Monstrosity,CON (Constitution),12,Cockatrice
+Humanoid,CON (Constitution),10,Commoner
+Dragon,CON (Constitution),13,Copper Dragon Wyrmling
+Dragon,CON (Constitution),17,Young Copper Dragon
+Dragon,CON (Constitution),21,Adult Copper Dragon
+Dragon,CON (Constitution),25,Ancient Copper Dragon
+Celestial,CON (Constitution),17,Couatl
+Swarm of Tiny Undead,CON (Constitution),11,Swarm of Crawling Claws
+Humanoid,CON (Constitution),10,Cultist
+Humanoid,CON (Constitution),12,Cultist Fanatic
+Aberration,CON (Constitution),13,Darkmantle
+Monstrosity,CON (Constitution),14,Death Dog
+Celestial,CON (Constitution),18,Deva
+Elemental,CON (Constitution),22,Djinni
+Monstrosity,CON (Constitution),14,Doppelganger
+Dragon,CON (Constitution),20,Dragon Turtle
+Fiend,CON (Constitution),12,Dretch
+Monstrosity,CON (Constitution),18,Drider
+Humanoid,CON (Constitution),13,Druid
+Fey,CON (Constitution),11,Dryad
+Elemental,CON (Constitution),20,Earth Elemental
+Elemental,CON (Constitution),24,Efreeti
+Fiend,CON (Constitution),18,Erinyes
+Monstrosity,CON (Constitution),13,Ettercap
+Giant,CON (Constitution),17,Ettin
+Elemental,CON (Constitution),16,Fire Elemental
+Giant,CON (Constitution),23,Fire Giant
+Construct,CON (Constitution),18,Flesh Golem
+Giant,CON (Constitution),21,Frost Giant
+Plant,CON (Constitution),10,Shrieker Fungus
+Plant,CON (Constitution),10,Violet Fungus
+Elemental,CON (Constitution),16,Gargoyle
+Ooze,CON (Constitution),20,Gelatinous Cube
+Undead,CON (Constitution),10,Ghast
+Undead,CON (Constitution),10,Ghost
+Undead,CON (Constitution),10,Ghoul
+Aberration,CON (Constitution),16,Gibbering Mouther
+Fiend,CON (Constitution),21,Glabrezu
+Humanoid,CON (Constitution),16,Gladiator
+Fiend,CON (Constitution),11,Gnoll Warrior
+Fey,CON (Constitution),10,Goblin Minion
+Fey,CON (Constitution),10,Goblin Warrior
+Fey,CON (Constitution),10,Goblin Boss
+Dragon,CON (Constitution),17,Gold Dragon Wyrmling
+Dragon,CON (Constitution),21,Young Gold Dragon
+Dragon,CON (Constitution),25,Adult Gold Dragon
+Dragon,CON (Constitution),29,Ancient Gold Dragon
+Construct,CON (Constitution),18,Gorgon
+Ooze,CON (Constitution),16,Gray Ooze
+Dragon,CON (Constitution),13,Green Dragon Wyrmling
+Dragon,CON (Constitution),17,Young Green Dragon
+Dragon,CON (Constitution),21,Adult Green Dragon
+Dragon,CON (Constitution),25,Ancient Green Dragon
+Fey,CON (Constitution),16,Green Hag
+Aberration,CON (Constitution),11,Grick
+Monstrosity,CON (Constitution),16,Griffon
+Aberration,CON (Constitution),12,Grimlock
+Celestial,CON (Constitution),16,Guardian Naga
+Humanoid,CON (Constitution),12,Guard
+Humanoid,CON (Constitution),16,Guard Captain
+Dragon,CON (Constitution),16,Half-Dragon
+Monstrosity,CON (Constitution),12,Harpy
+Fiend,CON (Constitution),14,Hell Hound
+Fiend,CON (Constitution),20,Hezrou
+Giant,CON (Constitution),19,Hill Giant
+Monstrosity,CON (Constitution),13,Hippogriff
+Fey,CON (Constitution),12,Hobgoblin Warrior
+Fey,CON (Constitution),14,Hobgoblin Captain
+Construct,CON (Constitution),14,Homunculus
+Fiend,CON (Constitution),21,Horned Devil
+Monstrosity,CON (Constitution),20,Hydra
+Fiend,CON (Constitution),18,Ice Devil
+Fiend,CON (Constitution),13,Imp
+Fiend,CON (Constitution),13,Incubus
+Elemental,CON (Constitution),14,Invisible Stalker
+Construct,CON (Constitution),20,Iron Golem
+Humanoid,CON (Constitution),14,Knight
+Dragon,CON (Constitution),9,Kobold Warrior
+Monstrosity,CON (Constitution),26,Kraken
+Fiend,CON (Constitution),15,Lamia
+Fiend,CON (Constitution),11,Lemure
+Undead,CON (Constitution),16,Lich
+Humanoid,CON (Constitution),11,Mage
+Humanoid,CON (Constitution),12,Archmage
+Elemental,CON (Constitution),12,Magmin
+Monstrosity,CON (Constitution),17,Manticore
+Fiend,CON (Constitution),20,Marilith
+Monstrosity,CON (Constitution),16,Medusa
+Elemental,CON (Constitution),10,Dust Mephit
+Elemental,CON (Constitution),10,Ice Mephit
+Elemental,CON (Constitution),12,Magma Mephit
+Elemental,CON (Constitution),10,Steam Mephit
+Elemental,CON (Constitution),12,Merfolk Skirmisher
+Monstrosity,CON (Constitution),15,Merrow
+Monstrosity,CON (Constitution),15,Mimic
+Monstrosity,CON (Constitution),16,Minotaur of Baphomet
+Undead,CON (Constitution),15,Mummy
+Undead,CON (Constitution),17,Mummy Lord
+Fiend,CON (Constitution),22,Nalfeshnee
+Fiend,CON (Constitution),16,Night Hag
+Fiend,CON (Constitution),16,Nightmare
+Humanoid,CON (Constitution),11,Noble
+Ooze,CON (Constitution),14,Ochre Jelly
+Giant,CON (Constitution),16,Ogre
+Fiend,CON (Constitution),16,Oni
+Aberration,CON (Constitution),19,Otyugh
+Monstrosity,CON (Constitution),17,Owlbear
+Celestial,CON (Constitution),16,Pegasus
+Monstrosity,CON (Constitution),12,Phase Spider
+Humanoid,CON (Constitution),12,Pirate
+Humanoid,CON (Constitution),14,Pirate Captain
+Fiend,CON (Constitution),24,Pit Fiend
+Celestial,CON (Constitution),24,Planetar
+Humanoid,CON (Constitution),12,Priest Acolyte
+Humanoid,CON (Constitution),12,Priest
+Dragon,CON (Constitution),13,Pseudodragon
+Monstrosity,CON (Constitution),22,Purple Worm
+Fiend,CON (Constitution),10,Quasit
+Fiend,CON (Constitution),18,Rakshasa
+Dragon,CON (Constitution),17,Red Dragon Wyrmling
+Dragon,CON (Constitution),21,Young Red Dragon
+Dragon,CON (Constitution),25,Adult Red Dragon
+Dragon,CON (Constitution),29,Ancient Red Dragon
+Monstrosity,CON (Constitution),21,Remorhaz
+Monstrosity,CON (Constitution),20,Roc
+Aberration,CON (Constitution),17,Roper
+Monstrosity,CON (Constitution),13,Rust Monster
+Fiend,CON (Constitution),12,Sahuagin Warrior
+Elemental,CON (Constitution),15,Salamander
+Fey,CON (Constitution),11,Satyr
+Humanoid,CON (Constitution),12,Scout
+Fey,CON (Constitution),16,Sea Hag
+Undead,CON (Constitution),13,Shadow
+Plant,CON (Constitution),16,Shambling Mound
+Construct,CON (Constitution),18,Shield Guardian
+Dragon,CON (Constitution),17,Silver Dragon Wyrmling
+Dragon,CON (Constitution),21,Young Silver Dragon
+Dragon,CON (Constitution),25,Adult Silver Dragon
+Dragon,CON (Constitution),29,Ancient Silver Dragon
+Undead,CON (Constitution),15,Skeleton
+Undead,CON (Constitution),15,Warhorse Skeleton
+Undead,CON (Constitution),15,Minotaur Skeleton
+Celestial,CON (Constitution),26,Solar
+Undead,CON (Constitution),11,Specter
+Celestial,CON (Constitution),13,Sphinx of Wonder
+Celestial,CON (Constitution),16,Sphinx of Lore
+Celestial,CON (Constitution),20,Sphinx of Valor
+Fiend,CON (Constitution),14,Spirit Naga
+Fey,CON (Constitution),10,Sprite
+Humanoid,CON (Constitution),10,Spy
+Monstrosity,CON (Constitution),11,Stirge
+Giant,CON (Constitution),20,Stone Giant
+Construct,CON (Constitution),20,Stone Golem
+Giant,CON (Constitution),20,Storm Giant
+Fiend,CON (Constitution),13,Succubus
+Monstrosity,CON (Constitution),30,Tarrasque
+Humanoid,CON (Constitution),14,Tough
+Humanoid,CON (Constitution),16,Tough Boss
+Plant,CON (Constitution),21,Treant
+Giant,CON (Constitution),20,Troll
+Giant,CON (Constitution),10,Troll Limb
+Celestial,CON (Constitution),15,Unicorn
+Humanoid,CON (Constitution),15,Vampire Familiar
+Undead,CON (Constitution),16,Vampire Spawn
+Undead,CON (Constitution),18,Vampire
+Fiend,CON (Constitution),18,Vrock
+Humanoid,CON (Constitution),11,Warrior Infantry
+Humanoid,CON (Constitution),14,Warrior Veteran
+Elemental,CON (Constitution),18,Water Elemental
+Monstrosity,CON (Constitution),17,Werebear
+Monstrosity,CON (Constitution),15,Wereboar
+Monstrosity,CON (Constitution),12,Wererat
+Monstrosity,CON (Constitution),16,Weretiger
+Monstrosity,CON (Constitution),14,Werewolf
+Dragon,CON (Constitution),14,White Dragon Wyrmling
+Dragon,CON (Constitution),18,Young White Dragon
+Dragon,CON (Constitution),22,Adult White Dragon
+Dragon,CON (Constitution),26,Ancient White Dragon
+Undead,CON (Constitution),16,Wight
+Undead,CON (Constitution),10,Will-o’-Wisp
+Monstrosity,CON (Constitution),14,Winter Wolf
+Fey,CON (Constitution),13,Worg
+Undead,CON (Constitution),16,Wraith
+Dragon,CON (Constitution),16,Wyvern
+Elemental,CON (Constitution),22,Xorn
+Undead,CON (Constitution),16,Zombie
+Undead,CON (Constitution),18,Ogre Zombie
+Beast,CON (Constitution),17,Allosaurus
+Beast,CON (Constitution),15,Ankylosaurus
+Beast,CON (Constitution),14,Ape
+Beast,CON (Constitution),13,Archelon
+Beast,CON (Constitution),11,Baboon
+Beast,CON (Constitution),16,Badger
+Beast,CON (Constitution),8,Bat
+Beast,CON (Constitution),14,Black Bear
+Beast,CON (Constitution),10,Blood Hawk
+Beast,CON (Constitution),14,Boar
+Beast,CON (Constitution),15,Brown Bear
+Beast,CON (Constitution),17,Camel
+Beast,CON (Constitution),10,Cat
+Beast,CON (Constitution),12,Constrictor Snake
+Beast,CON (Constitution),12,Crab
+Beast,CON (Constitution),13,Crocodile
+Beast,CON (Constitution),11,Deer
+Beast,CON (Constitution),15,Dire Wolf
+Beast,CON (Constitution),15,Draft Horse
+Beast,CON (Constitution),12,Eagle
+Beast,CON (Constitution),17,Elephant
+Beast,CON (Constitution),11,Elk
+Monstrosity,CON (Constitution),11,Flying Snake
+Beast,CON (Constitution),8,Frog
+Beast,CON (Constitution),18,Giant Ape
+Beast,CON (Constitution),17,Giant Badger
+Beast,CON (Constitution),11,Giant Bat
+Beast,CON (Constitution),16,Giant Boar
+Beast,CON (Constitution),12,Giant Centipede
+Beast,CON (Constitution),12,Giant Constrictor Snake
+Beast,CON (Constitution),11,Giant Crab
+Beast,CON (Constitution),17,Giant Crocodile
+Celestial,CON (Constitution),13,Giant Eagle
+Celestial,CON (Constitution),14,Giant Elk
+Beast,CON (Constitution),12,Giant Fire Beetle
+Beast,CON (Constitution),11,Giant Frog
+Beast,CON (Constitution),12,Giant Goat
+Beast,CON (Constitution),14,Giant Hyena
+Beast,CON (Constitution),13,Giant Lizard
+Beast,CON (Constitution),13,Giant Octopus
+Celestial,CON (Constitution),12,Giant Owl
+Beast,CON (Constitution),11,Giant Rat
+Beast,CON (Constitution),15,Giant Scorpion
+Beast,CON (Constitution),11,Giant Seahorse
+Beast,CON (Constitution),21,Giant Shark
+Beast,CON (Constitution),12,Giant Spider
+Beast,CON (Constitution),13,Giant Toad
+Beast,CON (Constitution),13,Giant Venomous Snake
+Monstrosity,CON (Constitution),16,Giant Vulture
+Beast,CON (Constitution),10,Giant Wasp
+Beast,CON (Constitution),10,Giant Weasel
+Beast,CON (Constitution),13,Giant Wolf Spider
+Beast,CON (Constitution),11,Goat
+Beast,CON (Constitution),8,Hawk
+Beast,CON (Constitution),15,Hippopotamus
+Beast,CON (Constitution),15,Hunter Shark
+Beast,CON (Constitution),12,Hyena
+Beast,CON (Constitution),11,Jackal
+Beast,CON (Constitution),13,Killer Whale
+Beast,CON (Constitution),11,Lion
+Beast,CON (Constitution),10,Lizard
+Beast,CON (Constitution),21,Mammoth
+Beast,CON (Constitution),12,Mastiff
+Beast,CON (Constitution),13,Mule
+Beast,CON (Constitution),11,Octopus
+Beast,CON (Constitution),8,Owl
+Beast,CON (Constitution),10,Panther
+Beast,CON (Constitution),9,Piranha
+Beast,CON (Constitution),16,Plesiosaurus
+Beast,CON (Constitution),16,Polar Bear
+Beast,CON (Constitution),13,Pony
+Beast,CON (Constitution),10,Pteranodon
+Beast,CON (Constitution),9,Rat
+Beast,CON (Constitution),10,Raven
+Beast,CON (Constitution),13,Reef Shark
+Beast,CON (Constitution),15,Rhinoceros
+Beast,CON (Constitution),12,Riding Horse
+Beast,CON (Constitution),15,Saber-Toothed Tiger
+Beast,CON (Constitution),8,Scorpion
+Beast,CON (Constitution),8,Seahorse
+Beast,CON (Constitution),8,Spider
+Swarm of Tiny Beasts,CON (Constitution),10,Swarm of Bats
+Swarm of Tiny Beasts,CON (Constitution),14,Swarm of Insects
+Swarm of Tiny Beasts,CON (Constitution),9,Swarm of Piranhas
+Swarm of Tiny Beasts,CON (Constitution),9,Swarm of Rats
+Swarm of Tiny Beasts,CON (Constitution),12,Swarm of Ravens
+Swarm of Tiny Beasts,CON (Constitution),11,Swarm of Venomous Snakes
+Beast,CON (Constitution),14,Tiger
+Beast,CON (Constitution),17,Triceratops
+Beast,CON (Constitution),19,Tyrannosaurus Rex
+Beast,CON (Constitution),11,Venomous Snake
+Beast,CON (Constitution),13,Vulture
+Beast,CON (Constitution),13,Warhorse
+Beast,CON (Constitution),8,Weasel
+Beast,CON (Constitution),12,Wolf
+Aberration,INT (Intelligence),18,Aboleth
+Elemental,INT (Intelligence),6,Air Elemental
+Construct,INT (Intelligence),1,Animated Armor
+Construct,INT (Intelligence),1,Animated Flying Sword
+Construct,INT (Intelligence),1,Animated Rug of Smothering
+Monstrosity,INT (Intelligence),1,Ankheg
+Humanoid,INT (Intelligence),16,Assassin
+Plant,INT (Intelligence),10,Awakened Shrub
+Plant,INT (Intelligence),10,Awakened Tree
+Monstrosity,INT (Intelligence),2,Axe Beak
+Elemental,INT (Intelligence),12,Azer Sentinel
+Fiend,INT (Intelligence),20,Balor
+Humanoid,INT (Intelligence),10,Bandit
+Humanoid,INT (Intelligence),14,Bandit Captain
+Fiend,INT (Intelligence),12,Barbed Devil
+Monstrosity,INT (Intelligence),2,Basilisk
+Fiend,INT (Intelligence),9,Bearded Devil
+Monstrosity,INT (Intelligence),7,Behir
+Humanoid,INT (Intelligence),9,Berserker
+Dragon,INT (Intelligence),10,Black Dragon Wyrmling
+Dragon,INT (Intelligence),12,Young Black Dragon
+Dragon,INT (Intelligence),14,Adult Black Dragon
+Dragon,INT (Intelligence),16,Ancient Black Dragon
+Ooze,INT (Intelligence),1,Black Pudding
+Fey,INT (Intelligence),10,Blink Dog
+Dragon,INT (Intelligence),12,Blue Dragon Wyrmling
+Dragon,INT (Intelligence),14,Young Blue Dragon
+Dragon,INT (Intelligence),16,Adult Blue Dragon
+Dragon,INT (Intelligence),18,Ancient Blue Dragon
+Fiend,INT (Intelligence),13,Bone Devil
+Dragon,INT (Intelligence),10,Brass Dragon Wyrmling
+Dragon,INT (Intelligence),12,Young Brass Dragon
+Dragon,INT (Intelligence),14,Adult Brass Dragon
+Dragon,INT (Intelligence),16,Ancient Brass Dragon
+Dragon,INT (Intelligence),12,Bronze Dragon Wyrmling
+Dragon,INT (Intelligence),14,Young Bronze Dragon
+Dragon,INT (Intelligence),16,Adult Bronze Dragon
+Dragon,INT (Intelligence),18,Ancient Bronze Dragon
+Fey,INT (Intelligence),11,Bugbear Stalker
+Fey,INT (Intelligence),8,Bugbear Warrior
+Monstrosity,INT (Intelligence),2,Bulette
+Fey,INT (Intelligence),9,Centaur Trooper
+Fiend,INT (Intelligence),11,Chain Devil
+Monstrosity,INT (Intelligence),3,Chimera
+Aberration,INT (Intelligence),5,Chuul
+Construct,INT (Intelligence),3,Clay Golem
+Aberration,INT (Intelligence),13,Cloaker
+Giant,INT (Intelligence),12,Cloud Giant
+Monstrosity,INT (Intelligence),2,Cockatrice
+Humanoid,INT (Intelligence),10,Commoner
+Dragon,INT (Intelligence),14,Copper Dragon Wyrmling
+Dragon,INT (Intelligence),16,Young Copper Dragon
+Dragon,INT (Intelligence),18,Adult Copper Dragon
+Dragon,INT (Intelligence),20,Ancient Copper Dragon
+Celestial,INT (Intelligence),18,Couatl
+Swarm of Tiny Undead,INT (Intelligence),5,Swarm of Crawling Claws
+Humanoid,INT (Intelligence),10,Cultist
+Humanoid,INT (Intelligence),10,Cultist Fanatic
+Aberration,INT (Intelligence),2,Darkmantle
+Monstrosity,INT (Intelligence),3,Death Dog
+Celestial,INT (Intelligence),17,Deva
+Elemental,INT (Intelligence),15,Djinni
+Monstrosity,INT (Intelligence),11,Doppelganger
+Dragon,INT (Intelligence),10,Dragon Turtle
+Fiend,INT (Intelligence),5,Dretch
+Monstrosity,INT (Intelligence),13,Drider
+Humanoid,INT (Intelligence),12,Druid
+Fey,INT (Intelligence),14,Dryad
+Elemental,INT (Intelligence),5,Earth Elemental
+Elemental,INT (Intelligence),16,Efreeti
+Fiend,INT (Intelligence),14,Erinyes
+Monstrosity,INT (Intelligence),7,Ettercap
+Giant,INT (Intelligence),6,Ettin
+Elemental,INT (Intelligence),6,Fire Elemental
+Giant,INT (Intelligence),10,Fire Giant
+Construct,INT (Intelligence),6,Flesh Golem
+Giant,INT (Intelligence),9,Frost Giant
+Plant,INT (Intelligence),1,Shrieker Fungus
+Plant,INT (Intelligence),1,Violet Fungus
+Elemental,INT (Intelligence),6,Gargoyle
+Ooze,INT (Intelligence),1,Gelatinous Cube
+Undead,INT (Intelligence),11,Ghast
+Undead,INT (Intelligence),10,Ghost
+Undead,INT (Intelligence),7,Ghoul
+Aberration,INT (Intelligence),3,Gibbering Mouther
+Fiend,INT (Intelligence),19,Glabrezu
+Humanoid,INT (Intelligence),10,Gladiator
+Fiend,INT (Intelligence),6,Gnoll Warrior
+Fey,INT (Intelligence),10,Goblin Minion
+Fey,INT (Intelligence),10,Goblin Warrior
+Fey,INT (Intelligence),10,Goblin Boss
+Dragon,INT (Intelligence),14,Gold Dragon Wyrmling
+Dragon,INT (Intelligence),16,Young Gold Dragon
+Dragon,INT (Intelligence),16,Adult Gold Dragon
+Dragon,INT (Intelligence),18,Ancient Gold Dragon
+Construct,INT (Intelligence),2,Gorgon
+Ooze,INT (Intelligence),1,Gray Ooze
+Dragon,INT (Intelligence),14,Green Dragon Wyrmling
+Dragon,INT (Intelligence),16,Young Green Dragon
+Dragon,INT (Intelligence),18,Adult Green Dragon
+Dragon,INT (Intelligence),20,Ancient Green Dragon
+Fey,INT (Intelligence),13,Green Hag
+Aberration,INT (Intelligence),3,Grick
+Monstrosity,INT (Intelligence),2,Griffon
+Aberration,INT (Intelligence),9,Grimlock
+Celestial,INT (Intelligence),16,Guardian Naga
+Humanoid,INT (Intelligence),10,Guard
+Humanoid,INT (Intelligence),12,Guard Captain
+Dragon,INT (Intelligence),10,Half-Dragon
+Monstrosity,INT (Intelligence),7,Harpy
+Fiend,INT (Intelligence),6,Hell Hound
+Fiend,INT (Intelligence),5,Hezrou
+Giant,INT (Intelligence),5,Hill Giant
+Monstrosity,INT (Intelligence),2,Hippogriff
+Fey,INT (Intelligence),10,Hobgoblin Warrior
+Fey,INT (Intelligence),12,Hobgoblin Captain
+Construct,INT (Intelligence),10,Homunculus
+Fiend,INT (Intelligence),12,Horned Devil
+Monstrosity,INT (Intelligence),2,Hydra
+Fiend,INT (Intelligence),18,Ice Devil
+Fiend,INT (Intelligence),11,Imp
+Fiend,INT (Intelligence),15,Incubus
+Elemental,INT (Intelligence),10,Invisible Stalker
+Construct,INT (Intelligence),3,Iron Golem
+Humanoid,INT (Intelligence),11,Knight
+Dragon,INT (Intelligence),8,Kobold Warrior
+Monstrosity,INT (Intelligence),22,Kraken
+Fiend,INT (Intelligence),14,Lamia
+Fiend,INT (Intelligence),1,Lemure
+Undead,INT (Intelligence),21,Lich
+Humanoid,INT (Intelligence),17,Mage
+Humanoid,INT (Intelligence),20,Archmage
+Elemental,INT (Intelligence),8,Magmin
+Monstrosity,INT (Intelligence),7,Manticore
+Fiend,INT (Intelligence),18,Marilith
+Monstrosity,INT (Intelligence),12,Medusa
+Elemental,INT (Intelligence),9,Dust Mephit
+Elemental,INT (Intelligence),9,Ice Mephit
+Elemental,INT (Intelligence),7,Magma Mephit
+Elemental,INT (Intelligence),11,Steam Mephit
+Elemental,INT (Intelligence),11,Merfolk Skirmisher
+Monstrosity,INT (Intelligence),8,Merrow
+Monstrosity,INT (Intelligence),5,Mimic
+Monstrosity,INT (Intelligence),6,Minotaur of Baphomet
+Undead,INT (Intelligence),6,Mummy
+Undead,INT (Intelligence),11,Mummy Lord
+Fiend,INT (Intelligence),19,Nalfeshnee
+Fiend,INT (Intelligence),16,Night Hag
+Fiend,INT (Intelligence),10,Nightmare
+Humanoid,INT (Intelligence),12,Noble
+Ooze,INT (Intelligence),2,Ochre Jelly
+Giant,INT (Intelligence),5,Ogre
+Fiend,INT (Intelligence),14,Oni
+Aberration,INT (Intelligence),6,Otyugh
+Monstrosity,INT (Intelligence),3,Owlbear
+Celestial,INT (Intelligence),10,Pegasus
+Monstrosity,INT (Intelligence),6,Phase Spider
+Humanoid,INT (Intelligence),8,Pirate
+Humanoid,INT (Intelligence),10,Pirate Captain
+Fiend,INT (Intelligence),22,Pit Fiend
+Celestial,INT (Intelligence),19,Planetar
+Humanoid,INT (Intelligence),10,Priest Acolyte
+Humanoid,INT (Intelligence),13,Priest
+Dragon,INT (Intelligence),10,Pseudodragon
+Monstrosity,INT (Intelligence),1,Purple Worm
+Fiend,INT (Intelligence),7,Quasit
+Fiend,INT (Intelligence),13,Rakshasa
+Dragon,INT (Intelligence),12,Red Dragon Wyrmling
+Dragon,INT (Intelligence),14,Young Red Dragon
+Dragon,INT (Intelligence),16,Adult Red Dragon
+Dragon,INT (Intelligence),18,Ancient Red Dragon
+Monstrosity,INT (Intelligence),4,Remorhaz
+Monstrosity,INT (Intelligence),3,Roc
+Aberration,INT (Intelligence),7,Roper
+Monstrosity,INT (Intelligence),2,Rust Monster
+Fiend,INT (Intelligence),12,Sahuagin Warrior
+Elemental,INT (Intelligence),11,Salamander
+Fey,INT (Intelligence),12,Satyr
+Humanoid,INT (Intelligence),11,Scout
+Fey,INT (Intelligence),12,Sea Hag
+Undead,INT (Intelligence),6,Shadow
+Plant,INT (Intelligence),5,Shambling Mound
+Construct,INT (Intelligence),7,Shield Guardian
+Dragon,INT (Intelligence),12,Silver Dragon Wyrmling
+Dragon,INT (Intelligence),14,Young Silver Dragon
+Dragon,INT (Intelligence),16,Adult Silver Dragon
+Dragon,INT (Intelligence),18,Ancient Silver Dragon
+Undead,INT (Intelligence),6,Skeleton
+Undead,INT (Intelligence),2,Warhorse Skeleton
+Undead,INT (Intelligence),6,Minotaur Skeleton
+Celestial,INT (Intelligence),25,Solar
+Undead,INT (Intelligence),10,Specter
+Celestial,INT (Intelligence),15,Sphinx of Wonder
+Celestial,INT (Intelligence),18,Sphinx of Lore
+Celestial,INT (Intelligence),16,Sphinx of Valor
+Fiend,INT (Intelligence),16,Spirit Naga
+Fey,INT (Intelligence),14,Sprite
+Humanoid,INT (Intelligence),12,Spy
+Monstrosity,INT (Intelligence),2,Stirge
+Giant,INT (Intelligence),10,Stone Giant
+Construct,INT (Intelligence),3,Stone Golem
+Giant,INT (Intelligence),16,Storm Giant
+Fiend,INT (Intelligence),15,Succubus
+Monstrosity,INT (Intelligence),3,Tarrasque
+Humanoid,INT (Intelligence),10,Tough
+Humanoid,INT (Intelligence),11,Tough Boss
+Plant,INT (Intelligence),12,Treant
+Giant,INT (Intelligence),7,Troll
+Giant,INT (Intelligence),1,Troll Limb
+Celestial,INT (Intelligence),11,Unicorn
+Humanoid,INT (Intelligence),10,Vampire Familiar
+Undead,INT (Intelligence),11,Vampire Spawn
+Undead,INT (Intelligence),17,Vampire
+Fiend,INT (Intelligence),8,Vrock
+Humanoid,INT (Intelligence),8,Warrior Infantry
+Humanoid,INT (Intelligence),10,Warrior Veteran
+Elemental,INT (Intelligence),5,Water Elemental
+Monstrosity,INT (Intelligence),11,Werebear
+Monstrosity,INT (Intelligence),10,Wereboar
+Monstrosity,INT (Intelligence),11,Wererat
+Monstrosity,INT (Intelligence),10,Weretiger
+Monstrosity,INT (Intelligence),10,Werewolf
+Dragon,INT (Intelligence),5,White Dragon Wyrmling
+Dragon,INT (Intelligence),6,Young White Dragon
+Dragon,INT (Intelligence),8,Adult White Dragon
+Dragon,INT (Intelligence),10,Ancient White Dragon
+Undead,INT (Intelligence),10,Wight
+Undead,INT (Intelligence),13,Will-o’-Wisp
+Monstrosity,INT (Intelligence),7,Winter Wolf
+Fey,INT (Intelligence),7,Worg
+Undead,INT (Intelligence),12,Wraith
+Dragon,INT (Intelligence),5,Wyvern
+Elemental,INT (Intelligence),11,Xorn
+Undead,INT (Intelligence),3,Zombie
+Undead,INT (Intelligence),3,Ogre Zombie
+Beast,INT (Intelligence),2,Allosaurus
+Beast,INT (Intelligence),2,Ankylosaurus
+Beast,INT (Intelligence),6,Ape
+Beast,INT (Intelligence),4,Archelon
+Beast,INT (Intelligence),4,Baboon
+Beast,INT (Intelligence),2,Badger
+Beast,INT (Intelligence),2,Bat
+Beast,INT (Intelligence),2,Black Bear
+Beast,INT (Intelligence),3,Blood Hawk
+Beast,INT (Intelligence),2,Boar
+Beast,INT (Intelligence),2,Brown Bear
+Beast,INT (Intelligence),2,Camel
+Beast,INT (Intelligence),3,Cat
+Beast,INT (Intelligence),1,Constrictor Snake
+Beast,INT (Intelligence),1,Crab
+Beast,INT (Intelligence),2,Crocodile
+Beast,INT (Intelligence),2,Deer
+Beast,INT (Intelligence),3,Dire Wolf
+Beast,INT (Intelligence),2,Draft Horse
+Beast,INT (Intelligence),2,Eagle
+Beast,INT (Intelligence),3,Elephant
+Beast,INT (Intelligence),2,Elk
+Monstrosity,INT (Intelligence),2,Flying Snake
+Beast,INT (Intelligence),1,Frog
+Beast,INT (Intelligence),5,Giant Ape
+Beast,INT (Intelligence),2,Giant Badger
+Beast,INT (Intelligence),2,Giant Bat
+Beast,INT (Intelligence),2,Giant Boar
+Beast,INT (Intelligence),1,Giant Centipede
+Beast,INT (Intelligence),1,Giant Constrictor Snake
+Beast,INT (Intelligence),1,Giant Crab
+Beast,INT (Intelligence),2,Giant Crocodile
+Celestial,INT (Intelligence),8,Giant Eagle
+Celestial,INT (Intelligence),7,Giant Elk
+Beast,INT (Intelligence),1,Giant Fire Beetle
+Beast,INT (Intelligence),2,Giant Frog
+Beast,INT (Intelligence),3,Giant Goat
+Beast,INT (Intelligence),2,Giant Hyena
+Beast,INT (Intelligence),2,Giant Lizard
+Beast,INT (Intelligence),5,Giant Octopus
+Celestial,INT (Intelligence),10,Giant Owl
+Beast,INT (Intelligence),2,Giant Rat
+Beast,INT (Intelligence),1,Giant Scorpion
+Beast,INT (Intelligence),2,Giant Seahorse
+Beast,INT (Intelligence),1,Giant Shark
+Beast,INT (Intelligence),2,Giant Spider
+Beast,INT (Intelligence),2,Giant Toad
+Beast,INT (Intelligence),2,Giant Venomous Snake
+Monstrosity,INT (Intelligence),6,Giant Vulture
+Beast,INT (Intelligence),1,Giant Wasp
+Beast,INT (Intelligence),4,Giant Weasel
+Beast,INT (Intelligence),3,Giant Wolf Spider
+Beast,INT (Intelligence),2,Goat
+Beast,INT (Intelligence),2,Hawk
+Beast,INT (Intelligence),2,Hippopotamus
+Beast,INT (Intelligence),1,Hunter Shark
+Beast,INT (Intelligence),2,Hyena
+Beast,INT (Intelligence),3,Jackal
+Beast,INT (Intelligence),3,Killer Whale
+Beast,INT (Intelligence),3,Lion
+Beast,INT (Intelligence),1,Lizard
+Beast,INT (Intelligence),3,Mammoth
+Beast,INT (Intelligence),3,Mastiff
+Beast,INT (Intelligence),2,Mule
+Beast,INT (Intelligence),3,Octopus
+Beast,INT (Intelligence),2,Owl
+Beast,INT (Intelligence),3,Panther
+Beast,INT (Intelligence),1,Piranha
+Beast,INT (Intelligence),2,Plesiosaurus
+Beast,INT (Intelligence),2,Polar Bear
+Beast,INT (Intelligence),2,Pony
+Beast,INT (Intelligence),2,Pteranodon
+Beast,INT (Intelligence),2,Rat
+Beast,INT (Intelligence),5,Raven
+Beast,INT (Intelligence),1,Reef Shark
+Beast,INT (Intelligence),2,Rhinoceros
+Beast,INT (Intelligence),2,Riding Horse
+Beast,INT (Intelligence),3,Saber-Toothed Tiger
+Beast,INT (Intelligence),1,Scorpion
+Beast,INT (Intelligence),1,Seahorse
+Beast,INT (Intelligence),1,Spider
+Swarm of Tiny Beasts,INT (Intelligence),2,Swarm of Bats
+Swarm of Tiny Beasts,INT (Intelligence),1,Swarm of Insects
+Swarm of Tiny Beasts,INT (Intelligence),1,Swarm of Piranhas
+Swarm of Tiny Beasts,INT (Intelligence),2,Swarm of Rats
+Swarm of Tiny Beasts,INT (Intelligence),5,Swarm of Ravens
+Swarm of Tiny Beasts,INT (Intelligence),1,Swarm of Venomous Snakes
+Beast,INT (Intelligence),3,Tiger
+Beast,INT (Intelligence),2,Triceratops
+Beast,INT (Intelligence),2,Tyrannosaurus Rex
+Beast,INT (Intelligence),1,Venomous Snake
+Beast,INT (Intelligence),2,Vulture
+Beast,INT (Intelligence),2,Warhorse
+Beast,INT (Intelligence),2,Weasel
+Beast,INT (Intelligence),3,Wolf
+Aberration,WIS (Wisdom),15,Aboleth
+Elemental,WIS (Wisdom),10,Air Elemental
+Construct,WIS (Wisdom),3,Animated Armor
+Construct,WIS (Wisdom),5,Animated Flying Sword
+Construct,WIS (Wisdom),3,Animated Rug of Smothering
+Monstrosity,WIS (Wisdom),13,Ankheg
+Humanoid,WIS (Wisdom),11,Assassin
+Plant,WIS (Wisdom),10,Awakened Shrub
+Plant,WIS (Wisdom),10,Awakened Tree
+Monstrosity,WIS (Wisdom),10,Axe Beak
+Elemental,WIS (Wisdom),13,Azer Sentinel
+Fiend,WIS (Wisdom),16,Balor
+Humanoid,WIS (Wisdom),10,Bandit
+Humanoid,WIS (Wisdom),11,Bandit Captain
+Fiend,WIS (Wisdom),14,Barbed Devil
+Monstrosity,WIS (Wisdom),8,Basilisk
+Fiend,WIS (Wisdom),11,Bearded Devil
+Monstrosity,WIS (Wisdom),14,Behir
+Humanoid,WIS (Wisdom),11,Berserker
+Dragon,WIS (Wisdom),11,Black Dragon Wyrmling
+Dragon,WIS (Wisdom),11,Young Black Dragon
+Dragon,WIS (Wisdom),13,Adult Black Dragon
+Dragon,WIS (Wisdom),15,Ancient Black Dragon
+Ooze,WIS (Wisdom),6,Black Pudding
+Fey,WIS (Wisdom),13,Blink Dog
+Dragon,WIS (Wisdom),11,Blue Dragon Wyrmling
+Dragon,WIS (Wisdom),13,Young Blue Dragon
+Dragon,WIS (Wisdom),15,Adult Blue Dragon
+Dragon,WIS (Wisdom),17,Ancient Blue Dragon
+Fiend,WIS (Wisdom),14,Bone Devil
+Dragon,WIS (Wisdom),11,Brass Dragon Wyrmling
+Dragon,WIS (Wisdom),11,Young Brass Dragon
+Dragon,WIS (Wisdom),13,Adult Brass Dragon
+Dragon,WIS (Wisdom),15,Ancient Brass Dragon
+Dragon,WIS (Wisdom),11,Bronze Dragon Wyrmling
+Dragon,WIS (Wisdom),13,Young Bronze Dragon
+Dragon,WIS (Wisdom),15,Adult Bronze Dragon
+Dragon,WIS (Wisdom),17,Ancient Bronze Dragon
+Fey,WIS (Wisdom),12,Bugbear Stalker
+Fey,WIS (Wisdom),11,Bugbear Warrior
+Monstrosity,WIS (Wisdom),10,Bulette
+Fey,WIS (Wisdom),13,Centaur Trooper
+Fiend,WIS (Wisdom),12,Chain Devil
+Monstrosity,WIS (Wisdom),14,Chimera
+Aberration,WIS (Wisdom),11,Chuul
+Construct,WIS (Wisdom),8,Clay Golem
+Aberration,WIS (Wisdom),14,Cloaker
+Giant,WIS (Wisdom),16,Cloud Giant
+Monstrosity,WIS (Wisdom),13,Cockatrice
+Humanoid,WIS (Wisdom),10,Commoner
+Dragon,WIS (Wisdom),11,Copper Dragon Wyrmling
+Dragon,WIS (Wisdom),13,Young Copper Dragon
+Dragon,WIS (Wisdom),15,Adult Copper Dragon
+Dragon,WIS (Wisdom),17,Ancient Copper Dragon
+Celestial,WIS (Wisdom),20,Couatl
+Swarm of Tiny Undead,WIS (Wisdom),10,Swarm of Crawling Claws
+Humanoid,WIS (Wisdom),11,Cultist
+Humanoid,WIS (Wisdom),14,Cultist Fanatic
+Aberration,WIS (Wisdom),10,Darkmantle
+Monstrosity,WIS (Wisdom),13,Death Dog
+Celestial,WIS (Wisdom),20,Deva
+Elemental,WIS (Wisdom),16,Djinni
+Monstrosity,WIS (Wisdom),12,Doppelganger
+Dragon,WIS (Wisdom),12,Dragon Turtle
+Fiend,WIS (Wisdom),8,Dretch
+Monstrosity,WIS (Wisdom),16,Drider
+Humanoid,WIS (Wisdom),16,Druid
+Fey,WIS (Wisdom),15,Dryad
+Elemental,WIS (Wisdom),10,Earth Elemental
+Elemental,WIS (Wisdom),15,Efreeti
+Fiend,WIS (Wisdom),14,Erinyes
+Monstrosity,WIS (Wisdom),12,Ettercap
+Giant,WIS (Wisdom),10,Ettin
+Elemental,WIS (Wisdom),10,Fire Elemental
+Giant,WIS (Wisdom),14,Fire Giant
+Construct,WIS (Wisdom),10,Flesh Golem
+Giant,WIS (Wisdom),10,Frost Giant
+Plant,WIS (Wisdom),3,Shrieker Fungus
+Plant,WIS (Wisdom),3,Violet Fungus
+Elemental,WIS (Wisdom),11,Gargoyle
+Ooze,WIS (Wisdom),6,Gelatinous Cube
+Undead,WIS (Wisdom),10,Ghast
+Undead,WIS (Wisdom),12,Ghost
+Undead,WIS (Wisdom),10,Ghoul
+Aberration,WIS (Wisdom),10,Gibbering Mouther
+Fiend,WIS (Wisdom),17,Glabrezu
+Humanoid,WIS (Wisdom),12,Gladiator
+Fiend,WIS (Wisdom),10,Gnoll Warrior
+Fey,WIS (Wisdom),8,Goblin Minion
+Fey,WIS (Wisdom),8,Goblin Warrior
+Fey,WIS (Wisdom),8,Goblin Boss
+Dragon,WIS (Wisdom),11,Gold Dragon Wyrmling
+Dragon,WIS (Wisdom),13,Young Gold Dragon
+Dragon,WIS (Wisdom),15,Adult Gold Dragon
+Dragon,WIS (Wisdom),17,Ancient Gold Dragon
+Construct,WIS (Wisdom),12,Gorgon
+Ooze,WIS (Wisdom),6,Gray Ooze
+Dragon,WIS (Wisdom),11,Green Dragon Wyrmling
+Dragon,WIS (Wisdom),13,Young Green Dragon
+Dragon,WIS (Wisdom),15,Adult Green Dragon
+Dragon,WIS (Wisdom),17,Ancient Green Dragon
+Fey,WIS (Wisdom),14,Green Hag
+Aberration,WIS (Wisdom),14,Grick
+Monstrosity,WIS (Wisdom),13,Griffon
+Aberration,WIS (Wisdom),8,Grimlock
+Celestial,WIS (Wisdom),19,Guardian Naga
+Humanoid,WIS (Wisdom),11,Guard
+Humanoid,WIS (Wisdom),14,Guard Captain
+Dragon,WIS (Wisdom),15,Half-Dragon
+Monstrosity,WIS (Wisdom),10,Harpy
+Fiend,WIS (Wisdom),13,Hell Hound
+Fiend,WIS (Wisdom),12,Hezrou
+Giant,WIS (Wisdom),9,Hill Giant
+Monstrosity,WIS (Wisdom),12,Hippogriff
+Fey,WIS (Wisdom),10,Hobgoblin Warrior
+Fey,WIS (Wisdom),10,Hobgoblin Captain
+Construct,WIS (Wisdom),10,Homunculus
+Fiend,WIS (Wisdom),16,Horned Devil
+Monstrosity,WIS (Wisdom),10,Hydra
+Fiend,WIS (Wisdom),15,Ice Devil
+Fiend,WIS (Wisdom),12,Imp
+Fiend,WIS (Wisdom),12,Incubus
+Elemental,WIS (Wisdom),15,Invisible Stalker
+Construct,WIS (Wisdom),11,Iron Golem
+Humanoid,WIS (Wisdom),11,Knight
+Dragon,WIS (Wisdom),7,Kobold Warrior
+Monstrosity,WIS (Wisdom),18,Kraken
+Fiend,WIS (Wisdom),15,Lamia
+Fiend,WIS (Wisdom),11,Lemure
+Undead,WIS (Wisdom),14,Lich
+Humanoid,WIS (Wisdom),12,Mage
+Humanoid,WIS (Wisdom),15,Archmage
+Elemental,WIS (Wisdom),11,Magmin
+Monstrosity,WIS (Wisdom),12,Manticore
+Fiend,WIS (Wisdom),16,Marilith
+Monstrosity,WIS (Wisdom),13,Medusa
+Elemental,WIS (Wisdom),11,Dust Mephit
+Elemental,WIS (Wisdom),11,Ice Mephit
+Elemental,WIS (Wisdom),10,Magma Mephit
+Elemental,WIS (Wisdom),10,Steam Mephit
+Elemental,WIS (Wisdom),14,Merfolk Skirmisher
+Monstrosity,WIS (Wisdom),10,Merrow
+Monstrosity,WIS (Wisdom),13,Mimic
+Monstrosity,WIS (Wisdom),16,Minotaur of Baphomet
+Undead,WIS (Wisdom),12,Mummy
+Undead,WIS (Wisdom),19,Mummy Lord
+Fiend,WIS (Wisdom),12,Nalfeshnee
+Fiend,WIS (Wisdom),14,Night Hag
+Fiend,WIS (Wisdom),13,Nightmare
+Humanoid,WIS (Wisdom),14,Noble
+Ooze,WIS (Wisdom),6,Ochre Jelly
+Giant,WIS (Wisdom),7,Ogre
+Fiend,WIS (Wisdom),12,Oni
+Aberration,WIS (Wisdom),13,Otyugh
+Monstrosity,WIS (Wisdom),12,Owlbear
+Celestial,WIS (Wisdom),15,Pegasus
+Monstrosity,WIS (Wisdom),10,Phase Spider
+Humanoid,WIS (Wisdom),12,Pirate
+Humanoid,WIS (Wisdom),14,Pirate Captain
+Fiend,WIS (Wisdom),18,Pit Fiend
+Celestial,WIS (Wisdom),22,Planetar
+Humanoid,WIS (Wisdom),14,Priest Acolyte
+Humanoid,WIS (Wisdom),16,Priest
+Dragon,WIS (Wisdom),12,Pseudodragon
+Monstrosity,WIS (Wisdom),8,Purple Worm
+Fiend,WIS (Wisdom),10,Quasit
+Fiend,WIS (Wisdom),16,Rakshasa
+Dragon,WIS (Wisdom),11,Red Dragon Wyrmling
+Dragon,WIS (Wisdom),11,Young Red Dragon
+Dragon,WIS (Wisdom),13,Adult Red Dragon
+Dragon,WIS (Wisdom),15,Ancient Red Dragon
+Monstrosity,WIS (Wisdom),10,Remorhaz
+Monstrosity,WIS (Wisdom),10,Roc
+Aberration,WIS (Wisdom),16,Roper
+Monstrosity,WIS (Wisdom),13,Rust Monster
+Fiend,WIS (Wisdom),13,Sahuagin Warrior
+Elemental,WIS (Wisdom),10,Salamander
+Fey,WIS (Wisdom),10,Satyr
+Humanoid,WIS (Wisdom),13,Scout
+Fey,WIS (Wisdom),12,Sea Hag
+Undead,WIS (Wisdom),10,Shadow
+Plant,WIS (Wisdom),10,Shambling Mound
+Construct,WIS (Wisdom),10,Shield Guardian
+Dragon,WIS (Wisdom),11,Silver Dragon Wyrmling
+Dragon,WIS (Wisdom),11,Young Silver Dragon
+Dragon,WIS (Wisdom),13,Adult Silver Dragon
+Dragon,WIS (Wisdom),15,Ancient Silver Dragon
+Undead,WIS (Wisdom),8,Skeleton
+Undead,WIS (Wisdom),8,Warhorse Skeleton
+Undead,WIS (Wisdom),8,Minotaur Skeleton
+Celestial,WIS (Wisdom),25,Solar
+Undead,WIS (Wisdom),10,Specter
+Celestial,WIS (Wisdom),12,Sphinx of Wonder
+Celestial,WIS (Wisdom),18,Sphinx of Lore
+Celestial,WIS (Wisdom),23,Sphinx of Valor
+Fiend,WIS (Wisdom),15,Spirit Naga
+Fey,WIS (Wisdom),13,Sprite
+Humanoid,WIS (Wisdom),14,Spy
+Monstrosity,WIS (Wisdom),8,Stirge
+Giant,WIS (Wisdom),12,Stone Giant
+Construct,WIS (Wisdom),11,Stone Golem
+Giant,WIS (Wisdom),20,Storm Giant
+Fiend,WIS (Wisdom),12,Succubus
+Monstrosity,WIS (Wisdom),11,Tarrasque
+Humanoid,WIS (Wisdom),10,Tough
+Humanoid,WIS (Wisdom),10,Tough Boss
+Plant,WIS (Wisdom),16,Treant
+Giant,WIS (Wisdom),9,Troll
+Giant,WIS (Wisdom),9,Troll Limb
+Celestial,WIS (Wisdom),17,Unicorn
+Humanoid,WIS (Wisdom),10,Vampire Familiar
+Undead,WIS (Wisdom),10,Vampire Spawn
+Undead,WIS (Wisdom),15,Vampire
+Fiend,WIS (Wisdom),13,Vrock
+Humanoid,WIS (Wisdom),11,Warrior Infantry
+Humanoid,WIS (Wisdom),11,Warrior Veteran
+Elemental,WIS (Wisdom),10,Water Elemental
+Monstrosity,WIS (Wisdom),12,Werebear
+Monstrosity,WIS (Wisdom),11,Wereboar
+Monstrosity,WIS (Wisdom),10,Wererat
+Monstrosity,WIS (Wisdom),13,Weretiger
+Monstrosity,WIS (Wisdom),11,Werewolf
+Dragon,WIS (Wisdom),10,White Dragon Wyrmling
+Dragon,WIS (Wisdom),11,Young White Dragon
+Dragon,WIS (Wisdom),12,Adult White Dragon
+Dragon,WIS (Wisdom),13,Ancient White Dragon
+Undead,WIS (Wisdom),13,Wight
+Undead,WIS (Wisdom),14,Will-o’-Wisp
+Monstrosity,WIS (Wisdom),12,Winter Wolf
+Fey,WIS (Wisdom),11,Worg
+Undead,WIS (Wisdom),14,Wraith
+Dragon,WIS (Wisdom),12,Wyvern
+Elemental,WIS (Wisdom),10,Xorn
+Undead,WIS (Wisdom),6,Zombie
+Undead,WIS (Wisdom),6,Ogre Zombie
+Beast,WIS (Wisdom),12,Allosaurus
+Beast,WIS (Wisdom),12,Ankylosaurus
+Beast,WIS (Wisdom),12,Ape
+Beast,WIS (Wisdom),14,Archelon
+Beast,WIS (Wisdom),12,Baboon
+Beast,WIS (Wisdom),12,Badger
+Beast,WIS (Wisdom),12,Bat
+Beast,WIS (Wisdom),12,Black Bear
+Beast,WIS (Wisdom),14,Blood Hawk
+Beast,WIS (Wisdom),9,Boar
+Beast,WIS (Wisdom),13,Brown Bear
+Beast,WIS (Wisdom),11,Camel
+Beast,WIS (Wisdom),12,Cat
+Beast,WIS (Wisdom),10,Constrictor Snake
+Beast,WIS (Wisdom),8,Crab
+Beast,WIS (Wisdom),10,Crocodile
+Beast,WIS (Wisdom),14,Deer
+Beast,WIS (Wisdom),12,Dire Wolf
+Beast,WIS (Wisdom),11,Draft Horse
+Beast,WIS (Wisdom),14,Eagle
+Beast,WIS (Wisdom),11,Elephant
+Beast,WIS (Wisdom),10,Elk
+Monstrosity,WIS (Wisdom),12,Flying Snake
+Beast,WIS (Wisdom),8,Frog
+Beast,WIS (Wisdom),12,Giant Ape
+Beast,WIS (Wisdom),12,Giant Badger
+Beast,WIS (Wisdom),12,Giant Bat
+Beast,WIS (Wisdom),7,Giant Boar
+Beast,WIS (Wisdom),7,Giant Centipede
+Beast,WIS (Wisdom),10,Giant Constrictor Snake
+Beast,WIS (Wisdom),9,Giant Crab
+Beast,WIS (Wisdom),10,Giant Crocodile
+Celestial,WIS (Wisdom),14,Giant Eagle
+Celestial,WIS (Wisdom),14,Giant Elk
+Beast,WIS (Wisdom),7,Giant Fire Beetle
+Beast,WIS (Wisdom),10,Giant Frog
+Beast,WIS (Wisdom),12,Giant Goat
+Beast,WIS (Wisdom),12,Giant Hyena
+Beast,WIS (Wisdom),10,Giant Lizard
+Beast,WIS (Wisdom),10,Giant Octopus
+Celestial,WIS (Wisdom),14,Giant Owl
+Beast,WIS (Wisdom),10,Giant Rat
+Beast,WIS (Wisdom),9,Giant Scorpion
+Beast,WIS (Wisdom),12,Giant Seahorse
+Beast,WIS (Wisdom),10,Giant Shark
+Beast,WIS (Wisdom),11,Giant Spider
+Beast,WIS (Wisdom),10,Giant Toad
+Beast,WIS (Wisdom),10,Giant Venomous Snake
+Monstrosity,WIS (Wisdom),12,Giant Vulture
+Beast,WIS (Wisdom),10,Giant Wasp
+Beast,WIS (Wisdom),12,Giant Weasel
+Beast,WIS (Wisdom),12,Giant Wolf Spider
+Beast,WIS (Wisdom),10,Goat
+Beast,WIS (Wisdom),14,Hawk
+Beast,WIS (Wisdom),12,Hippopotamus
+Beast,WIS (Wisdom),10,Hunter Shark
+Beast,WIS (Wisdom),12,Hyena
+Beast,WIS (Wisdom),12,Jackal
+Beast,WIS (Wisdom),12,Killer Whale
+Beast,WIS (Wisdom),12,Lion
+Beast,WIS (Wisdom),8,Lizard
+Beast,WIS (Wisdom),11,Mammoth
+Beast,WIS (Wisdom),12,Mastiff
+Beast,WIS (Wisdom),10,Mule
+Beast,WIS (Wisdom),10,Octopus
+Beast,WIS (Wisdom),12,Owl
+Beast,WIS (Wisdom),14,Panther
+Beast,WIS (Wisdom),7,Piranha
+Beast,WIS (Wisdom),12,Plesiosaurus
+Beast,WIS (Wisdom),13,Polar Bear
+Beast,WIS (Wisdom),11,Pony
+Beast,WIS (Wisdom),9,Pteranodon
+Beast,WIS (Wisdom),10,Rat
+Beast,WIS (Wisdom),13,Raven
+Beast,WIS (Wisdom),10,Reef Shark
+Beast,WIS (Wisdom),12,Rhinoceros
+Beast,WIS (Wisdom),11,Riding Horse
+Beast,WIS (Wisdom),12,Saber-Toothed Tiger
+Beast,WIS (Wisdom),8,Scorpion
+Beast,WIS (Wisdom),10,Seahorse
+Beast,WIS (Wisdom),10,Spider
+Swarm of Tiny Beasts,WIS (Wisdom),12,Swarm of Bats
+Swarm of Tiny Beasts,WIS (Wisdom),7,Swarm of Insects
+Swarm of Tiny Beasts,WIS (Wisdom),7,Swarm of Piranhas
+Swarm of Tiny Beasts,WIS (Wisdom),10,Swarm of Rats
+Swarm of Tiny Beasts,WIS (Wisdom),12,Swarm of Ravens
+Swarm of Tiny Beasts,WIS (Wisdom),10,Swarm of Venomous Snakes
+Beast,WIS (Wisdom),12,Tiger
+Beast,WIS (Wisdom),11,Triceratops
+Beast,WIS (Wisdom),12,Tyrannosaurus Rex
+Beast,WIS (Wisdom),10,Venomous Snake
+Beast,WIS (Wisdom),12,Vulture
+Beast,WIS (Wisdom),12,Warhorse
+Beast,WIS (Wisdom),12,Weasel
+Beast,WIS (Wisdom),12,Wolf
+Aberration,CHA (Charisma),18,Aboleth
+Elemental,CHA (Charisma),6,Air Elemental
+Construct,CHA (Charisma),1,Animated Armor
+Construct,CHA (Charisma),1,Animated Flying Sword
+Construct,CHA (Charisma),1,Animated Rug of Smothering
+Monstrosity,CHA (Charisma),6,Ankheg
+Humanoid,CHA (Charisma),10,Assassin
+Plant,CHA (Charisma),6,Awakened Shrub
+Plant,CHA (Charisma),7,Awakened Tree
+Monstrosity,CHA (Charisma),5,Axe Beak
+Elemental,CHA (Charisma),10,Azer Sentinel
+Fiend,CHA (Charisma),22,Balor
+Humanoid,CHA (Charisma),10,Bandit
+Humanoid,CHA (Charisma),14,Bandit Captain
+Fiend,CHA (Charisma),14,Barbed Devil
+Monstrosity,CHA (Charisma),7,Basilisk
+Fiend,CHA (Charisma),14,Bearded Devil
+Monstrosity,CHA (Charisma),12,Behir
+Humanoid,CHA (Charisma),9,Berserker
+Dragon,CHA (Charisma),13,Black Dragon Wyrmling
+Dragon,CHA (Charisma),15,Young Black Dragon
+Dragon,CHA (Charisma),19,Adult Black Dragon
+Dragon,CHA (Charisma),22,Ancient Black Dragon
+Ooze,CHA (Charisma),1,Black Pudding
+Fey,CHA (Charisma),11,Blink Dog
+Dragon,CHA (Charisma),15,Blue Dragon Wyrmling
+Dragon,CHA (Charisma),17,Young Blue Dragon
+Dragon,CHA (Charisma),20,Adult Blue Dragon
+Dragon,CHA (Charisma),25,Ancient Blue Dragon
+Fiend,CHA (Charisma),16,Bone Devil
+Dragon,CHA (Charisma),13,Brass Dragon Wyrmling
+Dragon,CHA (Charisma),15,Young Brass Dragon
+Dragon,CHA (Charisma),17,Adult Brass Dragon
+Dragon,CHA (Charisma),22,Ancient Brass Dragon
+Dragon,CHA (Charisma),15,Bronze Dragon Wyrmling
+Dragon,CHA (Charisma),17,Young Bronze Dragon
+Dragon,CHA (Charisma),20,Adult Bronze Dragon
+Dragon,CHA (Charisma),25,Ancient Bronze Dragon
+Fey,CHA (Charisma),11,Bugbear Stalker
+Fey,CHA (Charisma),9,Bugbear Warrior
+Monstrosity,CHA (Charisma),5,Bulette
+Fey,CHA (Charisma),11,Centaur Trooper
+Fiend,CHA (Charisma),14,Chain Devil
+Monstrosity,CHA (Charisma),10,Chimera
+Aberration,CHA (Charisma),5,Chuul
+Construct,CHA (Charisma),1,Clay Golem
+Aberration,CHA (Charisma),7,Cloaker
+Giant,CHA (Charisma),16,Cloud Giant
+Monstrosity,CHA (Charisma),5,Cockatrice
+Humanoid,CHA (Charisma),10,Commoner
+Dragon,CHA (Charisma),13,Copper Dragon Wyrmling
+Dragon,CHA (Charisma),15,Young Copper Dragon
+Dragon,CHA (Charisma),18,Adult Copper Dragon
+Dragon,CHA (Charisma),22,Ancient Copper Dragon
+Celestial,CHA (Charisma),18,Couatl
+Swarm of Tiny Undead,CHA (Charisma),4,Swarm of Crawling Claws
+Humanoid,CHA (Charisma),10,Cultist
+Humanoid,CHA (Charisma),13,Cultist Fanatic
+Aberration,CHA (Charisma),5,Darkmantle
+Monstrosity,CHA (Charisma),6,Death Dog
+Celestial,CHA (Charisma),20,Deva
+Elemental,CHA (Charisma),20,Djinni
+Monstrosity,CHA (Charisma),14,Doppelganger
+Dragon,CHA (Charisma),12,Dragon Turtle
+Fiend,CHA (Charisma),3,Dretch
+Monstrosity,CHA (Charisma),12,Drider
+Humanoid,CHA (Charisma),11,Druid
+Fey,CHA (Charisma),18,Dryad
+Elemental,CHA (Charisma),5,Earth Elemental
+Elemental,CHA (Charisma),19,Efreeti
+Fiend,CHA (Charisma),18,Erinyes
+Monstrosity,CHA (Charisma),8,Ettercap
+Giant,CHA (Charisma),8,Ettin
+Elemental,CHA (Charisma),7,Fire Elemental
+Giant,CHA (Charisma),13,Fire Giant
+Construct,CHA (Charisma),5,Flesh Golem
+Giant,CHA (Charisma),12,Frost Giant
+Plant,CHA (Charisma),1,Shrieker Fungus
+Plant,CHA (Charisma),1,Violet Fungus
+Elemental,CHA (Charisma),7,Gargoyle
+Ooze,CHA (Charisma),1,Gelatinous Cube
+Undead,CHA (Charisma),8,Ghast
+Undead,CHA (Charisma),17,Ghost
+Undead,CHA (Charisma),6,Ghoul
+Aberration,CHA (Charisma),6,Gibbering Mouther
+Fiend,CHA (Charisma),16,Glabrezu
+Humanoid,CHA (Charisma),15,Gladiator
+Fiend,CHA (Charisma),7,Gnoll Warrior
+Fey,CHA (Charisma),8,Goblin Minion
+Fey,CHA (Charisma),8,Goblin Warrior
+Fey,CHA (Charisma),10,Goblin Boss
+Dragon,CHA (Charisma),16,Gold Dragon Wyrmling
+Dragon,CHA (Charisma),20,Young Gold Dragon
+Dragon,CHA (Charisma),24,Adult Gold Dragon
+Dragon,CHA (Charisma),28,Ancient Gold Dragon
+Construct,CHA (Charisma),7,Gorgon
+Ooze,CHA (Charisma),2,Gray Ooze
+Dragon,CHA (Charisma),13,Green Dragon Wyrmling
+Dragon,CHA (Charisma),15,Young Green Dragon
+Dragon,CHA (Charisma),18,Adult Green Dragon
+Dragon,CHA (Charisma),22,Ancient Green Dragon
+Fey,CHA (Charisma),14,Green Hag
+Aberration,CHA (Charisma),5,Grick
+Monstrosity,CHA (Charisma),8,Griffon
+Aberration,CHA (Charisma),6,Grimlock
+Celestial,CHA (Charisma),18,Guardian Naga
+Humanoid,CHA (Charisma),10,Guard
+Humanoid,CHA (Charisma),13,Guard Captain
+Dragon,CHA (Charisma),14,Half-Dragon
+Monstrosity,CHA (Charisma),13,Harpy
+Fiend,CHA (Charisma),6,Hell Hound
+Fiend,CHA (Charisma),13,Hezrou
+Giant,CHA (Charisma),6,Hill Giant
+Monstrosity,CHA (Charisma),8,Hippogriff
+Fey,CHA (Charisma),9,Hobgoblin Warrior
+Fey,CHA (Charisma),13,Hobgoblin Captain
+Construct,CHA (Charisma),7,Homunculus
+Fiend,CHA (Charisma),18,Horned Devil
+Monstrosity,CHA (Charisma),7,Hydra
+Fiend,CHA (Charisma),18,Ice Devil
+Fiend,CHA (Charisma),14,Imp
+Fiend,CHA (Charisma),20,Incubus
+Elemental,CHA (Charisma),11,Invisible Stalker
+Construct,CHA (Charisma),1,Iron Golem
+Humanoid,CHA (Charisma),15,Knight
+Dragon,CHA (Charisma),8,Kobold Warrior
+Monstrosity,CHA (Charisma),20,Kraken
+Fiend,CHA (Charisma),16,Lamia
+Fiend,CHA (Charisma),3,Lemure
+Undead,CHA (Charisma),16,Lich
+Humanoid,CHA (Charisma),11,Mage
+Humanoid,CHA (Charisma),16,Archmage
+Elemental,CHA (Charisma),10,Magmin
+Monstrosity,CHA (Charisma),8,Manticore
+Fiend,CHA (Charisma),20,Marilith
+Monstrosity,CHA (Charisma),15,Medusa
+Elemental,CHA (Charisma),10,Dust Mephit
+Elemental,CHA (Charisma),12,Ice Mephit
+Elemental,CHA (Charisma),10,Magma Mephit
+Elemental,CHA (Charisma),12,Steam Mephit
+Elemental,CHA (Charisma),12,Merfolk Skirmisher
+Monstrosity,CHA (Charisma),9,Merrow
+Monstrosity,CHA (Charisma),8,Mimic
+Monstrosity,CHA (Charisma),9,Minotaur of Baphomet
+Undead,CHA (Charisma),12,Mummy
+Undead,CHA (Charisma),16,Mummy Lord
+Fiend,CHA (Charisma),15,Nalfeshnee
+Fiend,CHA (Charisma),16,Night Hag
+Fiend,CHA (Charisma),15,Nightmare
+Humanoid,CHA (Charisma),16,Noble
+Ooze,CHA (Charisma),1,Ochre Jelly
+Giant,CHA (Charisma),7,Ogre
+Fiend,CHA (Charisma),15,Oni
+Aberration,CHA (Charisma),6,Otyugh
+Monstrosity,CHA (Charisma),7,Owlbear
+Celestial,CHA (Charisma),13,Pegasus
+Monstrosity,CHA (Charisma),6,Phase Spider
+Humanoid,CHA (Charisma),14,Pirate
+Humanoid,CHA (Charisma),17,Pirate Captain
+Fiend,CHA (Charisma),24,Pit Fiend
+Celestial,CHA (Charisma),25,Planetar
+Humanoid,CHA (Charisma),11,Priest Acolyte
+Humanoid,CHA (Charisma),13,Priest
+Dragon,CHA (Charisma),10,Pseudodragon
+Monstrosity,CHA (Charisma),4,Purple Worm
+Fiend,CHA (Charisma),10,Quasit
+Fiend,CHA (Charisma),20,Rakshasa
+Dragon,CHA (Charisma),15,Red Dragon Wyrmling
+Dragon,CHA (Charisma),19,Young Red Dragon
+Dragon,CHA (Charisma),23,Adult Red Dragon
+Dragon,CHA (Charisma),27,Ancient Red Dragon
+Monstrosity,CHA (Charisma),5,Remorhaz
+Monstrosity,CHA (Charisma),9,Roc
+Aberration,CHA (Charisma),6,Roper
+Monstrosity,CHA (Charisma),6,Rust Monster
+Fiend,CHA (Charisma),9,Sahuagin Warrior
+Elemental,CHA (Charisma),12,Salamander
+Fey,CHA (Charisma),14,Satyr
+Humanoid,CHA (Charisma),11,Scout
+Fey,CHA (Charisma),13,Sea Hag
+Undead,CHA (Charisma),8,Shadow
+Plant,CHA (Charisma),5,Shambling Mound
+Construct,CHA (Charisma),3,Shield Guardian
+Dragon,CHA (Charisma),15,Silver Dragon Wyrmling
+Dragon,CHA (Charisma),19,Young Silver Dragon
+Dragon,CHA (Charisma),22,Adult Silver Dragon
+Dragon,CHA (Charisma),26,Ancient Silver Dragon
+Undead,CHA (Charisma),5,Skeleton
+Undead,CHA (Charisma),5,Warhorse Skeleton
+Undead,CHA (Charisma),5,Minotaur Skeleton
+Celestial,CHA (Charisma),30,Solar
+Undead,CHA (Charisma),11,Specter
+Celestial,CHA (Charisma),11,Sphinx of Wonder
+Celestial,CHA (Charisma),18,Sphinx of Lore
+Celestial,CHA (Charisma),18,Sphinx of Valor
+Fiend,CHA (Charisma),16,Spirit Naga
+Fey,CHA (Charisma),11,Sprite
+Humanoid,CHA (Charisma),16,Spy
+Monstrosity,CHA (Charisma),6,Stirge
+Giant,CHA (Charisma),9,Stone Giant
+Construct,CHA (Charisma),1,Stone Golem
+Giant,CHA (Charisma),18,Storm Giant
+Fiend,CHA (Charisma),20,Succubus
+Monstrosity,CHA (Charisma),11,Tarrasque
+Humanoid,CHA (Charisma),11,Tough
+Humanoid,CHA (Charisma),11,Tough Boss
+Plant,CHA (Charisma),12,Treant
+Giant,CHA (Charisma),7,Troll
+Giant,CHA (Charisma),1,Troll Limb
+Celestial,CHA (Charisma),16,Unicorn
+Humanoid,CHA (Charisma),14,Vampire Familiar
+Undead,CHA (Charisma),12,Vampire Spawn
+Undead,CHA (Charisma),18,Vampire
+Fiend,CHA (Charisma),8,Vrock
+Humanoid,CHA (Charisma),8,Warrior Infantry
+Humanoid,CHA (Charisma),10,Warrior Veteran
+Elemental,CHA (Charisma),8,Water Elemental
+Monstrosity,CHA (Charisma),12,Werebear
+Monstrosity,CHA (Charisma),8,Wereboar
+Monstrosity,CHA (Charisma),8,Wererat
+Monstrosity,CHA (Charisma),11,Weretiger
+Monstrosity,CHA (Charisma),10,Werewolf
+Dragon,CHA (Charisma),11,White Dragon Wyrmling
+Dragon,CHA (Charisma),12,Young White Dragon
+Dragon,CHA (Charisma),12,Adult White Dragon
+Dragon,CHA (Charisma),18,Ancient White Dragon
+Undead,CHA (Charisma),15,Wight
+Undead,CHA (Charisma),11,Will-o’-Wisp
+Monstrosity,CHA (Charisma),8,Winter Wolf
+Fey,CHA (Charisma),8,Worg
+Undead,CHA (Charisma),15,Wraith
+Dragon,CHA (Charisma),6,Wyvern
+Elemental,CHA (Charisma),11,Xorn
+Undead,CHA (Charisma),5,Zombie
+Undead,CHA (Charisma),5,Ogre Zombie
+Beast,CHA (Charisma),5,Allosaurus
+Beast,CHA (Charisma),5,Ankylosaurus
+Beast,CHA (Charisma),7,Ape
+Beast,CHA (Charisma),6,Archelon
+Beast,CHA (Charisma),6,Baboon
+Beast,CHA (Charisma),5,Badger
+Beast,CHA (Charisma),4,Bat
+Beast,CHA (Charisma),7,Black Bear
+Beast,CHA (Charisma),5,Blood Hawk
+Beast,CHA (Charisma),5,Boar
+Beast,CHA (Charisma),7,Brown Bear
+Beast,CHA (Charisma),5,Camel
+Beast,CHA (Charisma),7,Cat
+Beast,CHA (Charisma),3,Constrictor Snake
+Beast,CHA (Charisma),2,Crab
+Beast,CHA (Charisma),5,Crocodile
+Beast,CHA (Charisma),5,Deer
+Beast,CHA (Charisma),7,Dire Wolf
+Beast,CHA (Charisma),7,Draft Horse
+Beast,CHA (Charisma),7,Eagle
+Beast,CHA (Charisma),6,Elephant
+Beast,CHA (Charisma),6,Elk
+Monstrosity,CHA (Charisma),5,Flying Snake
+Beast,CHA (Charisma),3,Frog
+Beast,CHA (Charisma),7,Giant Ape
+Beast,CHA (Charisma),5,Giant Badger
+Beast,CHA (Charisma),6,Giant Bat
+Beast,CHA (Charisma),5,Giant Boar
+Beast,CHA (Charisma),3,Giant Centipede
+Beast,CHA (Charisma),3,Giant Constrictor Snake
+Beast,CHA (Charisma),3,Giant Crab
+Beast,CHA (Charisma),7,Giant Crocodile
+Celestial,CHA (Charisma),10,Giant Eagle
+Celestial,CHA (Charisma),10,Giant Elk
+Beast,CHA (Charisma),3,Giant Fire Beetle
+Beast,CHA (Charisma),3,Giant Frog
+Beast,CHA (Charisma),6,Giant Goat
+Beast,CHA (Charisma),7,Giant Hyena
+Beast,CHA (Charisma),5,Giant Lizard
+Beast,CHA (Charisma),4,Giant Octopus
+Celestial,CHA (Charisma),10,Giant Owl
+Beast,CHA (Charisma),4,Giant Rat
+Beast,CHA (Charisma),3,Giant Scorpion
+Beast,CHA (Charisma),5,Giant Seahorse
+Beast,CHA (Charisma),5,Giant Shark
+Beast,CHA (Charisma),4,Giant Spider
+Beast,CHA (Charisma),3,Giant Toad
+Beast,CHA (Charisma),3,Giant Venomous Snake
+Monstrosity,CHA (Charisma),7,Giant Vulture
+Beast,CHA (Charisma),3,Giant Wasp
+Beast,CHA (Charisma),5,Giant Weasel
+Beast,CHA (Charisma),4,Giant Wolf Spider
+Beast,CHA (Charisma),5,Goat
+Beast,CHA (Charisma),6,Hawk
+Beast,CHA (Charisma),4,Hippopotamus
+Beast,CHA (Charisma),4,Hunter Shark
+Beast,CHA (Charisma),5,Hyena
+Beast,CHA (Charisma),6,Jackal
+Beast,CHA (Charisma),7,Killer Whale
+Beast,CHA (Charisma),8,Lion
+Beast,CHA (Charisma),3,Lizard
+Beast,CHA (Charisma),6,Mammoth
+Beast,CHA (Charisma),7,Mastiff
+Beast,CHA (Charisma),5,Mule
+Beast,CHA (Charisma),4,Octopus
+Beast,CHA (Charisma),7,Owl
+Beast,CHA (Charisma),7,Panther
+Beast,CHA (Charisma),2,Piranha
+Beast,CHA (Charisma),5,Plesiosaurus
+Beast,CHA (Charisma),7,Polar Bear
+Beast,CHA (Charisma),7,Pony
+Beast,CHA (Charisma),5,Pteranodon
+Beast,CHA (Charisma),4,Rat
+Beast,CHA (Charisma),6,Raven
+Beast,CHA (Charisma),4,Reef Shark
+Beast,CHA (Charisma),6,Rhinoceros
+Beast,CHA (Charisma),7,Riding Horse
+Beast,CHA (Charisma),8,Saber-Toothed Tiger
+Beast,CHA (Charisma),2,Scorpion
+Beast,CHA (Charisma),2,Seahorse
+Beast,CHA (Charisma),2,Spider
+Swarm of Tiny Beasts,CHA (Charisma),4,Swarm of Bats
+Swarm of Tiny Beasts,CHA (Charisma),1,Swarm of Insects
+Swarm of Tiny Beasts,CHA (Charisma),2,Swarm of Piranhas
+Swarm of Tiny Beasts,CHA (Charisma),3,Swarm of Rats
+Swarm of Tiny Beasts,CHA (Charisma),6,Swarm of Ravens
+Swarm of Tiny Beasts,CHA (Charisma),3,Swarm of Venomous Snakes
+Beast,CHA (Charisma),8,Tiger
+Beast,CHA (Charisma),5,Triceratops
+Beast,CHA (Charisma),9,Tyrannosaurus Rex
+Beast,CHA (Charisma),3,Venomous Snake
+Beast,CHA (Charisma),4,Vulture
+Beast,CHA (Charisma),7,Warhorse
+Beast,CHA (Charisma),3,Weasel
+Beast,CHA (Charisma),6,Wolf
