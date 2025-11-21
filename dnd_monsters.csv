@@ -1,0 +1,331 @@
+name,Type,Alignment,CR,HP,AC,STR,DEX,CON,INT,WIS,CHA
+Aboleth,Aberration,Evil,10.0,150,17.0,21,9,15,18,15,18
+Air Elemental,Elemental,Neutral,5.0,90,15.0,14,20,14,6,10,6
+Animated Armor,Construct,Unaligned,1.0,33,18.0,14,11,13,1,3,1
+Animated Flying Sword,Construct,Unaligned,0.25,14,17.0,12,15,11,1,5,1
+Animated Rug of Smothering,Construct,Unaligned,2.0,27,12.0,17,14,10,1,3,1
+Ankheg,Monstrosity,Unaligned,2.0,45,14.0,17,11,14,1,13,6
+Assassin,Humanoid,Neutral,8.0,97,16.0,11,18,14,16,11,10
+Awakened Shrub,Plant,Neutral,0.0,10,9.0,3,8,11,10,10,6
+Awakened Tree,Plant,Neutral,2.0,59,13.0,19,6,15,10,10,7
+Axe Beak,Monstrosity,Unaligned,0.25,19,11.0,14,12,12,2,10,5
+Azer Sentinel,Elemental,Neutral,2.0,39,17.0,17,12,15,12,13,10
+Balor,Fiend,Evil,19.0,287,19.0,26,15,22,20,16,22
+Bandit,Humanoid,Neutral,0.125,11,12.0,11,12,12,10,10,10
+Bandit Captain,Humanoid,Neutral,2.0,52,15.0,15,16,14,14,11,14
+Barbed Devil,Fiend,Evil,5.0,110,15.0,16,17,18,12,14,14
+Basilisk,Monstrosity,Unaligned,3.0,52,15.0,16,8,15,2,8,7
+Bearded Devil,Fiend,Evil,3.0,58,13.0,16,15,15,9,11,14
+Behir,Monstrosity,Evil,11.0,168,17.0,23,16,18,7,14,12
+Berserker,Humanoid,Neutral,2.0,67,13.0,16,12,17,9,11,9
+Black Dragon Wyrmling,Dragon,Evil,2.0,33,17.0,15,14,13,10,11,13
+Young Black Dragon,Dragon,Evil,7.0,127,18.0,19,14,17,12,11,15
+Adult Black Dragon,Dragon,Evil,14.0,195,19.0,23,14,21,14,13,19
+Ancient Black Dragon,Dragon,Evil,21.0,367,22.0,27,14,25,16,15,22
+Black Pudding,Ooze,Unaligned,4.0,68,7.0,16,5,16,1,6,1
+Blink Dog,Fey,Good,0.25,22,13.0,12,17,12,10,13,11
+Blue Dragon Wyrmling,Dragon,Evil,3.0,65,17.0,17,10,15,12,11,15
+Young Blue Dragon,Dragon,Evil,9.0,152,18.0,21,10,19,14,13,17
+Adult Blue Dragon,Dragon,Evil,16.0,212,19.0,25,10,23,16,15,20
+Ancient Blue Dragon,Dragon,Evil,23.0,481,22.0,29,10,27,18,17,25
+Bone Devil,Fiend,Evil,9.0,161,16.0,18,16,18,13,14,16
+Brass Dragon Wyrmling,Dragon,Good,1.0,22,15.0,15,10,13,10,11,13
+Young Brass Dragon,Dragon,Good,6.0,110,17.0,19,10,17,12,11,15
+Adult Brass Dragon,Dragon,Good,13.0,172,18.0,23,10,21,14,13,17
+Ancient Brass Dragon,Dragon,Good,20.0,332,20.0,27,10,25,16,15,22
+Bronze Dragon Wyrmling,Dragon,Good,2.0,39,15.0,17,10,15,12,11,15
+Young Bronze Dragon,Dragon,Good,8.0,142,17.0,21,10,19,14,13,17
+Adult Bronze Dragon,Dragon,Good,15.0,212,18.0,25,10,23,16,15,20
+Ancient Bronze Dragon,Dragon,Good,22.0,444,22.0,29,10,27,18,17,25
+Bugbear Stalker,Fey,Evil,3.0,65,15.0,17,14,14,11,12,11
+Bugbear Warrior,Fey,Evil,1.0,33,14.0,15,14,13,8,11,9
+Bulette,Monstrosity,Unaligned,5.0,94,17.0,19,11,21,2,10,5
+Centaur Trooper,Fey,Good,2.0,45,16.0,18,14,14,9,13,11
+Chain Devil,Fiend,Evil,8.0,85,15.0,18,15,18,11,12,14
+Chimera,Monstrosity,Evil,6.0,114,14.0,19,11,19,3,14,10
+Chuul,Aberration,Evil,4.0,76,16.0,19,10,16,5,11,5
+Clay Golem,Construct,Unaligned,9.0,123,14.0,20,9,18,3,8,1
+Cloaker,Aberration,Neutral,8.0,91,14.0,17,15,12,13,14,7
+Cloud Giant,Giant,Neutral,9.0,200,14.0,27,10,22,12,16,16
+Cockatrice,Monstrosity,Unaligned,0.5,22,11.0,6,12,12,2,13,5
+Commoner,Humanoid,Neutral,0.0,4,10.0,10,10,10,10,10,10
+Copper Dragon Wyrmling,Dragon,Good,1.0,22,16.0,15,12,13,14,11,13
+Young Copper Dragon,Dragon,Good,7.0,119,17.0,19,12,17,16,13,15
+Adult Copper Dragon,Dragon,Good,14.0,184,18.0,23,12,21,18,15,18
+Ancient Copper Dragon,Dragon,Good,21.0,367,21.0,27,12,25,20,17,22
+Couatl,Celestial,Good,4.0,60,19.0,16,20,17,18,20,18
+Swarm of Crawling Claws,Swarm Of Tiny Undead,Evil,3.0,49,12.0,14,14,11,5,10,4
+Cultist,Humanoid,Neutral,0.125,9,12.0,11,12,10,10,11,10
+Cultist Fanatic,Humanoid,Neutral,2.0,44,13.0,11,14,12,10,14,13
+Darkmantle,Aberration,Unaligned,0.5,22,11.0,16,12,13,2,10,5
+Death Dog,Monstrosity,Evil,1.0,39,12.0,15,14,14,3,13,6
+Deva,Celestial,Good,10.0,229,17.0,18,18,18,17,20,20
+Djinni,Elemental,Neutral,11.0,218,17.0,21,15,22,15,16,20
+Doppelganger,Monstrosity,Neutral,3.0,52,14.0,11,18,14,11,12,14
+Dragon Turtle,Dragon,Neutral,17.0,356,20.0,25,10,20,10,12,12
+Dretch,Fiend,Evil,0.25,18,11.0,12,11,12,5,8,3
+Drider,Monstrosity,Evil,6.0,123,19.0,16,19,18,13,16,12
+Druid,Humanoid,Neutral,2.0,44,13.0,10,12,13,12,16,11
+Dryad,Fey,Neutral,1.0,22,16.0,10,12,11,14,15,18
+Earth Elemental,Elemental,Neutral,5.0,147,17.0,20,8,20,5,10,5
+Efreeti,Elemental,Neutral,11.0,212,17.0,22,12,24,16,15,19
+Erinyes,Fiend,Evil,12.0,178,18.0,18,16,18,14,14,18
+Ettercap,Monstrosity,Evil,2.0,44,13.0,14,15,13,7,12,8
+Ettin,Giant,Evil,4.0,85,12.0,21,8,17,6,10,8
+Fire Elemental,Elemental,Neutral,5.0,93,13.0,10,17,16,6,10,7
+Fire Giant,Giant,Evil,9.0,162,18.0,25,9,23,10,14,13
+Flesh Golem,Construct,Neutral,5.0,127,9.0,19,9,18,6,10,5
+Frost Giant,Giant,Evil,8.0,149,15.0,23,9,21,9,10,12
+Shrieker Fungus,Plant,Unaligned,0.0,13,5.0,1,1,10,1,3,1
+Violet Fungus,Plant,Unaligned,0.25,18,5.0,3,1,10,1,3,1
+Gargoyle,Elemental,Evil,2.0,67,15.0,15,11,16,6,11,7
+Gelatinous Cube,Ooze,Unaligned,2.0,63,6.0,14,3,20,1,6,1
+Ghast,Undead,Evil,2.0,36,13.0,16,17,10,11,10,8
+Ghost,Undead,Neutral,4.0,45,11.0,7,13,10,10,12,17
+Ghoul,Undead,Evil,1.0,22,12.0,13,15,10,7,10,6
+Gibbering Mouther,Aberration,Neutral,2.0,52,9.0,10,8,16,3,10,6
+Glabrezu,Fiend,Evil,9.0,189,17.0,20,15,21,19,17,16
+Gladiator,Humanoid,Neutral,5.0,112,16.0,18,15,16,10,12,15
+Gnoll Warrior,Fiend,Evil,0.5,27,15.0,14,12,11,6,10,7
+Goblin Minion,Fey,Neutral,0.125,7,12.0,8,15,10,10,8,8
+Goblin Warrior,Fey,Neutral,0.25,10,15.0,8,15,10,10,8,8
+Goblin Boss,Fey,Neutral,1.0,21,17.0,10,15,10,10,8,10
+Gold Dragon Wyrmling,Dragon,Good,3.0,60,17.0,19,14,17,14,11,16
+Young Gold Dragon,Dragon,Good,10.0,178,18.0,23,14,21,16,13,20
+Adult Gold Dragon,Dragon,Good,17.0,243,19.0,27,14,25,16,15,24
+Ancient Gold Dragon,Dragon,Good,24.0,546,22.0,30,14,29,18,17,28
+Gorgon,Construct,Unaligned,5.0,114,19.0,20,11,18,2,12,7
+Gray Ooze,Ooze,Unaligned,0.5,22,9.0,12,6,16,1,6,2
+Green Dragon Wyrmling,Dragon,Evil,2.0,38,17.0,15,12,13,14,11,13
+Young Green Dragon,Dragon,Evil,8.0,136,18.0,19,12,17,16,13,15
+Adult Green Dragon,Dragon,Evil,15.0,207,19.0,23,12,21,18,15,18
+Ancient Green Dragon,Dragon,Evil,22.0,402,21.0,27,12,25,20,17,22
+Green Hag,Fey,Evil,3.0,82,17.0,18,12,16,13,14,14
+Grick,Aberration,Unaligned,2.0,54,14.0,14,14,11,3,14,5
+Griffon,Monstrosity,Unaligned,2.0,59,12.0,18,15,16,2,13,8
+Grimlock,Aberration,Evil,0.25,11,11.0,16,12,12,9,8,6
+Guardian Naga,Celestial,Good,10.0,136,18.0,19,18,16,16,19,18
+Guard,Humanoid,Neutral,0.125,11,16.0,13,12,12,10,11,10
+Guard Captain,Humanoid,Neutral,4.0,75,18.0,18,14,16,12,14,13
+Half-Dragon,Dragon,Neutral,5.0,105,18.0,19,14,16,10,15,14
+Harpy,Monstrosity,Evil,1.0,38,11.0,12,13,12,7,10,13
+Hell Hound,Fiend,Evil,3.0,58,15.0,17,12,14,6,13,6
+Hezrou,Fiend,Evil,8.0,157,18.0,19,17,20,5,12,13
+Hill Giant,Giant,Evil,5.0,105,13.0,21,8,19,5,9,6
+Hippogriff,Monstrosity,Unaligned,1.0,26,11.0,17,13,13,2,12,8
+Hobgoblin Warrior,Fey,Evil,0.5,11,18.0,13,12,12,10,10,9
+Hobgoblin Captain,Fey,Evil,3.0,58,17.0,15,14,14,12,10,13
+Homunculus,Construct,Neutral,0.0,4,13.0,4,15,14,10,10,7
+Horned Devil,Fiend,Evil,11.0,199,18.0,22,17,21,12,16,18
+Hydra,Monstrosity,Unaligned,8.0,184,15.0,20,12,20,2,10,7
+Ice Devil,Fiend,Evil,14.0,228,18.0,21,14,18,18,15,18
+Imp,Fiend,Evil,1.0,21,13.0,6,17,13,11,12,14
+Incubus,Fiend,Evil,4.0,66,15.0,8,17,13,15,12,20
+Invisible Stalker,Elemental,Neutral,6.0,97,14.0,16,19,14,10,15,11
+Iron Golem,Construct,Unaligned,16.0,252,20.0,24,9,20,3,11,1
+Knight,Humanoid,Neutral,3.0,52,18.0,16,11,14,11,11,15
+Kobold Warrior,Dragon,Neutral,0.125,7,14.0,7,15,9,8,7,8
+Kraken,Monstrosity,Evil,23.0,481,18.0,30,11,26,22,18,20
+Lamia,Fiend,Evil,4.0,97,13.0,16,13,15,14,15,16
+Lemure,Fiend,Evil,0.0,9,9.0,10,5,11,1,11,3
+Lich,Undead,Evil,21.0,315,20.0,11,16,16,21,14,16
+Mage,Humanoid,Neutral,6.0,81,15.0,9,14,11,17,12,11
+Archmage,Humanoid,Neutral,12.0,170,17.0,10,14,12,20,15,16
+Magmin,Elemental,Neutral,0.5,13,14.0,7,15,12,8,11,10
+Manticore,Monstrosity,Evil,3.0,68,14.0,17,16,17,7,12,8
+Marilith,Fiend,Evil,16.0,220,16.0,18,20,20,18,16,20
+Medusa,Monstrosity,Evil,6.0,127,15.0,10,17,16,12,13,15
+Dust Mephit,Elemental,Evil,0.5,17,12.0,5,14,10,9,11,10
+Ice Mephit,Elemental,Evil,0.5,21,11.0,7,13,10,9,11,12
+Magma Mephit,Elemental,Evil,0.5,18,11.0,8,12,12,7,10,10
+Steam Mephit,Elemental,Evil,0.25,17,10.0,5,11,10,11,10,12
+Merfolk Skirmisher,Elemental,Neutral,0.125,11,11.0,10,13,12,11,14,12
+Merrow,Monstrosity,Evil,2.0,45,13.0,18,15,15,8,10,9
+Mimic,Monstrosity,Neutral,2.0,58,12.0,17,12,15,5,13,8
+Minotaur of Baphomet,Monstrosity,Evil,3.0,85,14.0,18,11,16,6,16,9
+Mummy,Undead,Evil,3.0,58,11.0,16,8,15,6,12,12
+Mummy Lord,Undead,Evil,15.0,187,17.0,18,10,17,11,19,16
+Nalfeshnee,Fiend,Evil,13.0,184,18.0,21,10,22,19,12,15
+Night Hag,Fiend,Evil,5.0,112,17.0,18,15,16,16,14,16
+Nightmare,Fiend,Evil,3.0,68,13.0,18,15,16,10,13,15
+Noble,Humanoid,Neutral,0.125,9,15.0,11,12,11,12,14,16
+Ochre Jelly,Ooze,Unaligned,2.0,52,8.0,15,6,14,2,6,1
+Ogre,Giant,Evil,2.0,68,11.0,19,8,16,5,7,7
+Oni,Fiend,Evil,7.0,119,17.0,19,11,16,14,12,15
+Otyugh,Aberration,Neutral,5.0,104,14.0,16,11,19,6,13,6
+Owlbear,Monstrosity,Unaligned,3.0,59,13.0,20,12,17,3,12,7
+Pegasus,Celestial,Good,2.0,59,12.0,18,15,16,10,15,13
+Phase Spider,Monstrosity,Unaligned,3.0,45,14.0,15,16,12,6,10,6
+Pirate,Humanoid,Neutral,1.0,33,14.0,10,16,12,8,12,14
+Pirate Captain,Humanoid,Neutral,6.0,84,17.0,10,18,14,10,14,17
+Pit Fiend,Fiend,Evil,20.0,337,21.0,26,14,24,22,18,24
+Planetar,Celestial,Good,16.0,262,19.0,24,20,24,19,22,25
+Priest Acolyte,Humanoid,Neutral,0.25,11,13.0,14,10,12,10,14,11
+Priest,Humanoid,Neutral,2.0,38,13.0,16,10,12,13,16,13
+Pseudodragon,Dragon,Good,0.25,10,14.0,6,15,13,10,12,10
+Purple Worm,Monstrosity,Unaligned,15.0,247,18.0,28,7,22,1,8,4
+Quasit,Fiend,Evil,1.0,25,13.0,5,17,10,7,10,10
+Rakshasa,Fiend,Evil,13.0,221,17.0,14,17,18,13,16,20
+Red Dragon Wyrmling,Dragon,Evil,4.0,75,17.0,19,10,17,12,11,15
+Young Red Dragon,Dragon,Evil,10.0,178,18.0,23,10,21,14,11,19
+Adult Red Dragon,Dragon,Evil,17.0,256,19.0,27,10,25,16,13,23
+Ancient Red Dragon,Dragon,Evil,24.0,507,22.0,30,10,29,18,15,27
+Remorhaz,Monstrosity,Unaligned,11.0,195,17.0,24,13,21,4,10,5
+Roc,Monstrosity,Unaligned,11.0,248,15.0,28,10,20,3,10,9
+Roper,Aberration,Evil,5.0,93,20.0,18,8,17,7,16,6
+Rust Monster,Monstrosity,Unaligned,0.5,33,14.0,13,12,13,2,13,6
+Sahuagin Warrior,Fiend,Evil,0.5,22,12.0,13,11,12,12,13,9
+Salamander,Elemental,Evil,5.0,90,15.0,18,14,15,11,10,12
+Satyr,Fey,Neutral,0.5,31,13.0,12,16,11,12,10,14
+Scout,Humanoid,Neutral,0.5,16,13.0,11,14,12,11,13,11
+Sea Hag,Fey,Evil,2.0,52,14.0,16,13,16,12,12,13
+Shadow,Undead,Evil,0.5,27,12.0,6,14,13,6,10,8
+Shambling Mound,Plant,Unaligned,5.0,110,15.0,18,8,16,5,10,5
+Shield Guardian,Construct,Unaligned,7.0,142,17.0,18,8,18,7,10,3
+Silver Dragon Wyrmling,Dragon,Good,2.0,45,17.0,19,10,17,12,11,15
+Young Silver Dragon,Dragon,Good,9.0,168,18.0,23,10,21,14,11,19
+Adult Silver Dragon,Dragon,Good,16.0,216,19.0,27,10,25,16,13,22
+Ancient Silver Dragon,Dragon,Good,23.0,468,22.0,30,10,29,18,15,26
+Skeleton,Undead,Evil,0.25,13,14.0,10,16,15,6,8,5
+Warhorse Skeleton,Undead,Evil,0.5,22,13.0,18,12,15,2,8,5
+Minotaur Skeleton,Undead,Evil,2.0,45,12.0,18,11,15,6,8,5
+Solar,Celestial,Good,21.0,297,21.0,26,22,26,25,25,30
+Specter,Undead,Evil,1.0,22,12.0,1,14,11,10,10,11
+Sphinx of Wonder,Celestial,Good,1.0,24,13.0,6,17,13,15,12,11
+Sphinx of Lore,Celestial,Neutral,11.0,170,17.0,18,15,16,18,18,18
+Sphinx of Valor,Celestial,Neutral,17.0,199,17.0,22,10,20,16,23,18
+Spirit Naga,Fiend,Evil,8.0,135,17.0,18,17,14,16,15,16
+Sprite,Fey,Good,0.25,10,15.0,3,18,10,14,13,11
+Spy,Humanoid,Neutral,1.0,27,12.0,10,15,10,12,14,16
+Stirge,Monstrosity,Unaligned,0.125,5,13.0,4,16,11,2,8,6
+Stone Giant,Giant,Neutral,7.0,126,17.0,23,15,20,10,12,9
+Stone Golem,Construct,Unaligned,10.0,220,18.0,22,9,20,3,11,1
+Storm Giant,Giant,Good,13.0,230,16.0,29,14,20,16,20,18
+Succubus,Fiend,Evil,4.0,71,15.0,8,17,13,15,12,20
+Tarrasque,Monstrosity,Unaligned,30.0,697,25.0,30,11,30,3,11,11
+Tough,Humanoid,Neutral,0.5,32,12.0,15,12,14,10,10,11
+Tough Boss,Humanoid,Neutral,4.0,82,16.0,17,14,16,11,10,11
+Treant,Plant,Good,9.0,138,16.0,23,8,21,12,16,12
+Troll,Giant,Evil,5.0,94,15.0,18,13,20,7,9,7
+Troll Limb,Giant,Evil,0.5,14,13.0,18,12,10,1,9,1
+Unicorn,Celestial,Good,5.0,97,12.0,18,14,15,11,17,16
+Vampire Familiar,Humanoid,Evil,3.0,65,15.0,17,16,15,10,10,14
+Vampire Spawn,Undead,Evil,5.0,90,16.0,16,16,16,11,10,12
+Vampire,Undead,Evil,13.0,195,16.0,18,18,18,17,15,18
+Vrock,Fiend,Evil,6.0,152,15.0,17,15,18,8,13,8
+Warrior Infantry,Humanoid,Neutral,0.125,9,13.0,13,11,11,8,11,8
+Warrior Veteran,Humanoid,Neutral,3.0,65,17.0,16,13,14,10,11,10
+Water Elemental,Elemental,Neutral,5.0,114,14.0,18,14,18,5,10,8
+Werebear,Monstrosity,Good,5.0,135,15.0,19,10,17,11,12,12
+Wereboar,Monstrosity,Evil,4.0,97,15.0,17,10,15,10,11,8
+Wererat,Monstrosity,Evil,2.0,60,13.0,10,16,12,11,10,8
+Weretiger,Monstrosity,Neutral,4.0,120,12.0,17,15,16,10,13,11
+Werewolf,Monstrosity,Evil,3.0,71,15.0,16,14,14,10,11,10
+White Dragon Wyrmling,Dragon,Evil,2.0,32,16.0,14,10,14,5,10,11
+Young White Dragon,Dragon,Evil,6.0,123,17.0,18,10,18,6,11,12
+Adult White Dragon,Dragon,Evil,13.0,200,18.0,22,10,22,8,12,12
+Ancient White Dragon,Dragon,Evil,20.0,333,20.0,26,10,26,10,13,18
+Wight,Undead,Evil,3.0,82,14.0,15,14,16,10,13,15
+Will-o’-Wisp,Undead,Evil,2.0,27,19.0,1,28,10,13,14,11
+Winter Wolf,Monstrosity,Evil,3.0,75,13.0,18,13,14,7,12,8
+Worg,Fey,Evil,0.5,26,13.0,16,13,13,7,11,8
+Wraith,Undead,Evil,5.0,67,13.0,6,16,16,12,14,15
+Wyvern,Dragon,Unaligned,6.0,127,14.0,19,10,16,5,12,6
+Xorn,Elemental,Neutral,5.0,84,19.0,17,10,22,11,10,11
+Zombie,Undead,Evil,0.25,15,8.0,13,6,16,3,6,5
+Ogre Zombie,Undead,Evil,2.0,85,8.0,19,6,18,3,6,5
+Allosaurus,Beast,Unaligned,2.0,51,13.0,19,13,17,2,12,5
+Ankylosaurus,Beast,Unaligned,3.0,68,15.0,19,11,15,2,12,5
+Ape,Beast,Unaligned,0.5,19,12.0,16,14,14,6,12,7
+Archelon,Beast,Unaligned,4.0,90,17.0,18,16,13,4,14,6
+Baboon,Beast,Unaligned,0.0,3,12.0,8,14,11,4,12,6
+Badger,Beast,Unaligned,0.0,5,11.0,10,11,16,2,12,5
+Bat,Beast,Unaligned,0.0,1,12.0,2,15,8,2,12,4
+Black Bear,Beast,Unaligned,0.5,19,11.0,15,12,14,2,12,7
+Blood Hawk,Beast,Unaligned,0.125,7,12.0,6,14,10,3,14,5
+Boar,Beast,Unaligned,0.25,13,11.0,13,11,14,2,9,5
+Brown Bear,Beast,Unaligned,1.0,22,11.0,17,12,15,2,13,7
+Camel,Beast,Unaligned,0.125,17,10.0,15,8,17,2,11,5
+Cat,Beast,Unaligned,0.0,2,12.0,3,15,10,3,12,7
+Constrictor Snake,Beast,Unaligned,0.25,13,13.0,15,14,12,1,10,3
+Crab,Beast,Unaligned,0.0,3,11.0,6,11,12,1,8,2
+Crocodile,Beast,Unaligned,0.5,13,12.0,15,10,13,2,10,5
+Deer,Beast,Unaligned,0.0,4,13.0,11,16,11,2,14,5
+Dire Wolf,Beast,Unaligned,1.0,22,14.0,17,15,15,3,12,7
+Draft Horse,Beast,Unaligned,0.25,15,10.0,18,10,15,2,11,7
+Eagle,Beast,Unaligned,0.0,4,12.0,6,15,12,2,14,7
+Elephant,Beast,Unaligned,4.0,76,12.0,22,9,17,3,11,6
+Elk,Beast,Unaligned,0.25,11,10.0,16,10,11,2,10,6
+Flying Snake,Monstrosity,Unaligned,0.125,5,14.0,4,15,11,2,12,5
+Frog,Beast,Unaligned,0.0,1,11.0,1,13,8,1,8,3
+Giant Ape,Beast,Unaligned,7.0,168,12.0,23,14,18,5,12,7
+Giant Badger,Beast,Unaligned,0.25,15,13.0,13,10,17,2,12,5
+Giant Bat,Beast,Unaligned,0.25,22,13.0,15,16,11,2,12,6
+Giant Boar,Beast,Unaligned,2.0,42,13.0,17,10,16,2,7,5
+Giant Centipede,Beast,Unaligned,0.25,9,14.0,5,14,12,1,7,3
+Giant Constrictor Snake,Beast,Unaligned,2.0,60,12.0,19,14,12,1,10,3
+Giant Crab,Beast,Unaligned,0.125,13,15.0,13,13,11,1,9,3
+Giant Crocodile,Beast,Unaligned,5.0,85,14.0,21,9,17,2,10,7
+Giant Eagle,Celestial,Good,1.0,26,13.0,16,17,13,8,14,10
+Giant Elk,Celestial,Good,2.0,42,14.0,19,18,14,7,14,10
+Giant Fire Beetle,Beast,Unaligned,0.0,4,13.0,8,10,12,1,7,3
+Giant Frog,Beast,Unaligned,0.25,18,11.0,12,13,11,2,10,3
+Giant Goat,Beast,Unaligned,0.5,19,11.0,17,13,12,3,12,6
+Giant Hyena,Beast,Unaligned,1.0,45,12.0,16,14,14,2,12,7
+Giant Lizard,Beast,Unaligned,0.25,19,12.0,15,12,13,2,10,5
+Giant Octopus,Beast,Unaligned,1.0,45,11.0,17,13,13,5,10,4
+Giant Owl,Celestial,Neutral,0.25,19,12.0,13,15,12,10,14,10
+Giant Rat,Beast,Unaligned,0.125,7,13.0,7,16,11,2,10,4
+Giant Scorpion,Beast,Unaligned,3.0,52,15.0,16,13,15,1,9,3
+Giant Seahorse,Beast,Unaligned,0.5,16,14.0,15,12,11,2,12,5
+Giant Shark,Beast,Unaligned,5.0,92,13.0,23,11,21,1,10,5
+Giant Spider,Beast,Unaligned,1.0,26,14.0,14,16,12,2,11,4
+Giant Toad,Beast,Unaligned,1.0,39,11.0,15,13,13,2,10,3
+Giant Venomous Snake,Beast,Unaligned,0.25,11,14.0,10,18,13,2,10,3
+Giant Vulture,Monstrosity,Evil,1.0,25,10.0,15,10,16,6,12,7
+Giant Wasp,Beast,Unaligned,0.5,22,13.0,10,14,10,1,10,3
+Giant Weasel,Beast,Unaligned,0.125,9,13.0,11,17,10,4,12,5
+Giant Wolf Spider,Beast,Unaligned,0.25,11,13.0,12,16,13,3,12,4
+Goat,Beast,Unaligned,0.0,4,10.0,11,10,11,2,10,5
+Hawk,Beast,Unaligned,0.0,1,13.0,5,16,8,2,14,6
+Hippopotamus,Beast,Unaligned,4.0,82,14.0,21,7,15,2,12,4
+Hunter Shark,Beast,Unaligned,2.0,45,12.0,18,14,15,1,10,4
+Hyena,Beast,Unaligned,0.0,5,11.0,11,13,12,2,12,5
+Jackal,Beast,Unaligned,0.0,3,12.0,8,15,11,3,12,6
+Killer Whale,Beast,Unaligned,3.0,90,12.0,19,14,13,3,12,7
+Lion,Beast,Unaligned,1.0,22,12.0,17,15,11,3,12,8
+Lizard,Beast,Unaligned,0.0,2,10.0,2,11,10,1,8,3
+Mammoth,Beast,Unaligned,6.0,126,13.0,24,9,21,3,11,6
+Mastiff,Beast,Unaligned,0.125,5,12.0,13,14,12,3,12,7
+Mule,Beast,Unaligned,0.125,11,10.0,14,10,13,2,10,5
+Octopus,Beast,Unaligned,0.0,3,12.0,4,15,11,3,10,4
+Owl,Beast,Unaligned,0.0,1,11.0,3,13,8,2,12,7
+Panther,Beast,Unaligned,0.25,13,13.0,14,16,10,3,14,7
+Piranha,Beast,Unaligned,0.0,1,13.0,2,16,9,1,7,2
+Plesiosaurus,Beast,Unaligned,2.0,68,13.0,18,15,16,2,12,5
+Polar Bear,Beast,Unaligned,2.0,42,12.0,20,14,16,2,13,7
+Pony,Beast,Unaligned,0.125,11,10.0,15,10,13,2,11,7
+Pteranodon,Beast,Unaligned,0.25,13,13.0,12,15,10,2,9,5
+Rat,Beast,Unaligned,0.0,1,10.0,2,11,9,2,10,4
+Raven,Beast,Unaligned,0.0,2,12.0,2,14,10,5,13,6
+Reef Shark,Beast,Unaligned,0.5,22,12.0,14,15,13,1,10,4
+Rhinoceros,Beast,Unaligned,2.0,45,13.0,21,8,15,2,12,6
+Riding Horse,Beast,Unaligned,0.25,13,11.0,16,13,12,2,11,7
+Saber-Toothed Tiger,Beast,Unaligned,2.0,52,13.0,18,17,15,3,12,8
+Scorpion,Beast,Unaligned,0.0,1,11.0,2,11,8,1,8,2
+Seahorse,Beast,Unaligned,0.0,1,12.0,1,12,8,1,10,2
+Spider,Beast,Unaligned,0.0,1,12.0,2,14,8,1,10,2
+Swarm of Bats,Swarm Of Tiny Beasts,Unaligned,0.25,11,12.0,5,15,10,2,12,4
+Swarm of Insects,Swarm Of Tiny Beasts,Unaligned,0.5,19,11.0,3,13,14,1,7,1
+Swarm of Piranhas,Swarm Of Tiny Beasts,Unaligned,1.0,28,13.0,13,16,9,1,7,2
+Swarm of Rats,Swarm Of Tiny Beasts,Unaligned,0.25,14,10.0,9,11,9,2,10,3
+Swarm of Ravens,Swarm Of Tiny Beasts,Unaligned,0.25,11,12.0,6,14,12,5,12,6
+Swarm of Venomous Snakes,Swarm Of Tiny Beasts,Unaligned,2.0,36,14.0,8,18,11,1,10,3
+Tiger,Beast,Unaligned,1.0,30,13.0,17,16,14,3,12,8
+Triceratops,Beast,Unaligned,5.0,114,14.0,22,9,17,2,11,5
+Tyrannosaurus Rex,Beast,Unaligned,8.0,136,13.0,25,10,19,2,12,9
+Venomous Snake,Beast,Unaligned,0.125,5,12.0,2,15,11,1,10,3
+Vulture,Beast,Unaligned,0.0,5,10.0,7,10,13,2,12,4
+Warhorse,Beast,Unaligned,0.5,19,11.0,18,12,13,2,12,7
+Weasel,Beast,Unaligned,0.0,1,13.0,3,16,8,2,12,3
+Wolf,Beast,Unaligned,0.25,11,12.0,14,15,12,3,12,6
