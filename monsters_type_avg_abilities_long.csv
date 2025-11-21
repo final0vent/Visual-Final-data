@@ -1,0 +1,97 @@
+type,ability,value,ability_label
+Aberration,str,16.333333333333332,STR
+Beast,str,12.726190476190476,STR
+Celestial,str,17.923076923076923,STR
+Construct,str,17.0,STR
+Dragon,str,21.622222222222224,STR
+Elemental,str,13.529411764705882,STR
+Fey,str,12.733333333333333,STR
+Fiend,str,16.275862068965516,STR
+Giant,str,22.4,STR
+Humanoid,str,13.038461538461538,STR
+Monstrosity,str,16.89189189189189,STR
+Ooze,str,14.25,STR
+Plant,str,11.166666666666666,STR
+Swarm of Tiny Beasts,str,7.333333333333333,STR
+Swarm of Tiny Undead,str,14.0,STR
+Undead,str,12.333333333333334,STR
+Aberration,dex,11.0,DEX
+Beast,dex,12.976190476190476,DEX
+Celestial,dex,16.846153846153847,DEX
+Construct,dex,11.0,DEX
+Dragon,dex,11.377777777777778,DEX
+Elemental,dex,13.529411764705882,DEX
+Fey,dex,14.266666666666667,DEX
+Fiend,dex,14.586206896551724,DEX
+Giant,dex,10.6,DEX
+Humanoid,dex,13.346153846153847,DEX
+Monstrosity,dex,13.027027027027026,DEX
+Ooze,dex,5.0,DEX
+Plant,dex,5.333333333333333,DEX
+Swarm of Tiny Beasts,dex,14.5,DEX
+Swarm of Tiny Undead,dex,14.0,DEX
+Undead,dex,13.88888888888889,DEX
+Aberration,con,14.555555555555555,CON
+Beast,con,12.714285714285714,CON
+Celestial,con,16.923076923076923,CON
+Construct,con,16.0,CON
+Dragon,con,20.044444444444444,CON
+Elemental,con,15.411764705882353,CON
+Fey,con,12.4,CON
+Fiend,con,16.448275862068964,CON
+Giant,con,18.8,CON
+Humanoid,con,12.923076923076923,CON
+Monstrosity,con,16.135135135135137,CON
+Ooze,con,16.5,CON
+Plant,con,13.833333333333334,CON
+Swarm of Tiny Beasts,con,10.833333333333334,CON
+Swarm of Tiny Undead,con,11.0,CON
+Undead,con,14.277777777777779,CON
+Aberration,int,7.333333333333333,INT
+Beast,int,2.2023809523809526,INT
+Celestial,int,14.615384615384615,INT
+Construct,int,3.7,INT
+Dragon,int,13.688888888888888,INT
+Elemental,int,9.294117647058824,INT
+Fey,int,10.8,INT
+Fiend,int,12.448275862068966,INT
+Giant,int,8.1,INT
+Humanoid,int,11.384615384615385,INT
+Monstrosity,int,5.864864864864865,INT
+Ooze,int,1.25,INT
+Plant,int,6.5,INT
+Swarm of Tiny Beasts,int,2.0,INT
+Swarm of Tiny Undead,int,5.0,INT
+Undead,int,9.166666666666666,INT
+Aberration,wis,12.333333333333334,WIS
+Beast,wis,10.988095238095237,WIS
+Celestial,wis,17.923076923076923,WIS
+Construct,wis,8.3,WIS
+Dragon,wis,12.977777777777778,WIS
+Elemental,wis,11.588235294117647,WIS
+Fey,wis,11.2,WIS
+Fiend,wis,13.310344827586206,WIS
+Giant,wis,11.6,WIS
+Humanoid,wis,12.23076923076923,WIS
+Monstrosity,wis,11.81081081081081,WIS
+Ooze,wis,6.0,WIS
+Plant,wis,8.666666666666666,WIS
+Swarm of Tiny Beasts,wis,9.666666666666666,WIS
+Swarm of Tiny Undead,wis,10.0,WIS
+Undead,wis,11.055555555555555,WIS
+Aberration,cha,7.111111111111111,CHA
+Beast,cha,5.083333333333333,CHA
+Celestial,cha,16.692307692307693,CHA
+Construct,cha,2.8,CHA
+Dragon,cha,17.4,CHA
+Elemental,cha,10.705882352941176,CHA
+Fey,cha,11.2,CHA
+Fiend,cha,14.482758620689655,CHA
+Giant,cha,9.7,CHA
+Humanoid,cha,12.26923076923077,CHA
+Monstrosity,cha,8.594594594594595,CHA
+Ooze,cha,1.25,CHA
+Plant,cha,5.333333333333333,CHA
+Swarm of Tiny Beasts,cha,3.1666666666666665,CHA
+Swarm of Tiny Undead,cha,4.0,CHA
+Undead,cha,10.555555555555555,CHA
